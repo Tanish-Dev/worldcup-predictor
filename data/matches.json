@@ -1,0 +1,7814 @@
+[
+  {
+    "year": 2022,
+    "round": "Final",
+    "homeTeam": "Argentina",
+    "awayTeam": "France",
+    "homeScore": 3,
+    "awayScore": 3,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Third-place match",
+    "homeTeam": "Croatia",
+    "awayTeam": "Morocco",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Semi-finals",
+    "homeTeam": "France",
+    "awayTeam": "Morocco",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Semi-finals",
+    "homeTeam": "Argentina",
+    "awayTeam": "Croatia",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Quarter-finals",
+    "homeTeam": "Morocco",
+    "awayTeam": "Portugal",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Quarter-finals",
+    "homeTeam": "England",
+    "awayTeam": "France",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Quarter-finals",
+    "homeTeam": "Croatia",
+    "awayTeam": "Brazil",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Quarter-finals",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Argentina",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Round of 16",
+    "homeTeam": "Morocco",
+    "awayTeam": "Spain",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Round of 16",
+    "homeTeam": "Portugal",
+    "awayTeam": "Switzerland",
+    "homeScore": 6,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Round of 16",
+    "homeTeam": "Japan",
+    "awayTeam": "Croatia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Round of 16",
+    "homeTeam": "Brazil",
+    "awayTeam": "Korea Republic",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Round of 16",
+    "homeTeam": "France",
+    "awayTeam": "Poland",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Round of 16",
+    "homeTeam": "England",
+    "awayTeam": "Senegal",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Round of 16",
+    "homeTeam": "Netherlands",
+    "awayTeam": "United States",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Round of 16",
+    "homeTeam": "Argentina",
+    "awayTeam": "Australia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Portugal",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Ghana",
+    "awayTeam": "Uruguay",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Brazil",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Serbia",
+    "awayTeam": "Switzerland",
+    "homeScore": 2,
+    "awayScore": 3,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Canada",
+    "awayTeam": "Morocco",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Croatia",
+    "awayTeam": "Belgium",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Costa Rica",
+    "awayTeam": "Germany",
+    "homeScore": 2,
+    "awayScore": 4,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Japan",
+    "awayTeam": "Spain",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Australia",
+    "awayTeam": "Denmark",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Tunisia",
+    "awayTeam": "France",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Mexico",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Poland",
+    "awayTeam": "Argentina",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Senegal",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Qatar",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "IR Iran",
+    "awayTeam": "United States",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Wales",
+    "awayTeam": "England",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Ghana",
+    "homeScore": 2,
+    "awayScore": 3,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Switzerland",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "Uruguay",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Japan",
+    "awayTeam": "Costa Rica",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Morocco",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Croatia",
+    "awayTeam": "Canada",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Germany",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Australia",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Poland",
+    "awayTeam": "Saudi Arabia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Denmark",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Mexico",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Wales",
+    "awayTeam": "IR Iran",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Qatar",
+    "awayTeam": "Senegal",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Ecuador",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "United States",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Cameroon",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Korea Republic",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "Ghana",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Serbia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Morocco",
+    "awayTeam": "Croatia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "Japan",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Costa Rica",
+    "homeScore": 7,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Canada",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Saudi Arabia",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Denmark",
+    "awayTeam": "Tunisia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "Poland",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Australia",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "IR Iran",
+    "homeScore": 6,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Senegal",
+    "awayTeam": "Netherlands",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "Wales",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Qatar"
+  },
+  {
+    "year": 2022,
+    "round": "Group stage",
+    "homeTeam": "Qatar",
+    "awayTeam": "Ecuador",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Qatar"
+  },
+  {
+    "year": 2018,
+    "round": "Final",
+    "homeTeam": "France",
+    "awayTeam": "Croatia",
+    "homeScore": 4,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Third-place match",
+    "homeTeam": "Belgium",
+    "awayTeam": "England",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Semi-finals",
+    "homeTeam": "Croatia",
+    "awayTeam": "England",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Semi-finals",
+    "homeTeam": "France",
+    "awayTeam": "Belgium",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Quarter-finals",
+    "homeTeam": "Sweden",
+    "awayTeam": "England",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Quarter-finals",
+    "homeTeam": "Russia",
+    "awayTeam": "Croatia",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Quarter-finals",
+    "homeTeam": "Uruguay",
+    "awayTeam": "France",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Quarter-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "Belgium",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Round of 16",
+    "homeTeam": "Sweden",
+    "awayTeam": "Switzerland",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Round of 16",
+    "homeTeam": "Colombia",
+    "awayTeam": "England",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Round of 16",
+    "homeTeam": "Brazil",
+    "awayTeam": "Mexico",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Round of 16",
+    "homeTeam": "Belgium",
+    "awayTeam": "Japan",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Round of 16",
+    "homeTeam": "Spain",
+    "awayTeam": "Russia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Round of 16",
+    "homeTeam": "Croatia",
+    "awayTeam": "Denmark",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Round of 16",
+    "homeTeam": "France",
+    "awayTeam": "Argentina",
+    "homeScore": 4,
+    "awayScore": 3,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Round of 16",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Portugal",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Japan",
+    "awayTeam": "Poland",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Senegal",
+    "awayTeam": "Colombia",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Belgium",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Panama",
+    "awayTeam": "Tunisia",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Germany",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "Sweden",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Costa Rica",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Serbia",
+    "awayTeam": "Brazil",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Australia",
+    "awayTeam": "Peru",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Denmark",
+    "awayTeam": "France",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Iceland",
+    "awayTeam": "Croatia",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Nigeria",
+    "awayTeam": "Argentina",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Egypt",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Russia",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Morocco",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "IR Iran",
+    "awayTeam": "Portugal",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Panama",
+    "homeScore": 6,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Japan",
+    "awayTeam": "Senegal",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Poland",
+    "awayTeam": "Colombia",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Tunisia",
+    "homeScore": 5,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Mexico",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "Sweden",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Costa Rica",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Serbia",
+    "awayTeam": "Switzerland",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Denmark",
+    "awayTeam": "Australia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Peru",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Croatia",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "Morocco",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Saudi Arabia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "IR Iran",
+    "awayTeam": "Spain",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Colombia",
+    "awayTeam": "Japan",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Poland",
+    "awayTeam": "Senegal",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Russia",
+    "awayTeam": "Egypt",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Korea Republic",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Panama",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Tunisia",
+    "awayTeam": "England",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "Mexico",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Switzerland",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Australia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Iceland",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Croatia",
+    "awayTeam": "Nigeria",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Egypt",
+    "awayTeam": "Uruguay",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Morocco",
+    "awayTeam": "IR Iran",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "Spain",
+    "homeScore": 3,
+    "awayScore": 3,
+    "host": "Russia"
+  },
+  {
+    "year": 2018,
+    "round": "Group stage",
+    "homeTeam": "Russia",
+    "awayTeam": "Saudi Arabia",
+    "homeScore": 5,
+    "awayScore": 0,
+    "host": "Russia"
+  },
+  {
+    "year": 2014,
+    "round": "Final",
+    "homeTeam": "Germany",
+    "awayTeam": "Argentina",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Third-place match",
+    "homeTeam": "Brazil",
+    "awayTeam": "Netherlands",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Semi-finals",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Argentina",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Semi-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "Germany",
+    "homeScore": 1,
+    "awayScore": 7,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Quarter-finals",
+    "homeTeam": "Argentina",
+    "awayTeam": "Belgium",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Quarter-finals",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Costa Rica",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Quarter-finals",
+    "homeTeam": "France",
+    "awayTeam": "Germany",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Quarter-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "Colombia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Round of 16",
+    "homeTeam": "Argentina",
+    "awayTeam": "Switzerland",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Round of 16",
+    "homeTeam": "Belgium",
+    "awayTeam": "United States",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Round of 16",
+    "homeTeam": "France",
+    "awayTeam": "Nigeria",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Round of 16",
+    "homeTeam": "Germany",
+    "awayTeam": "Algeria",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Round of 16",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Mexico",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Round of 16",
+    "homeTeam": "Brazil",
+    "awayTeam": "Chile",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Round of 16",
+    "homeTeam": "Colombia",
+    "awayTeam": "Uruguay",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "Germany",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "Ghana",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Belgium",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Algeria",
+    "awayTeam": "Russia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Bosnia-Herzegovina",
+    "awayTeam": "IR Iran",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Nigeria",
+    "awayTeam": "Argentina",
+    "homeScore": 2,
+    "awayScore": 3,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Honduras",
+    "awayTeam": "Switzerland",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Ecuador",
+    "awayTeam": "France",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Costa Rica",
+    "awayTeam": "England",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Uruguay",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Japan",
+    "awayTeam": "Colombia",
+    "homeScore": 1,
+    "awayScore": 4,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Greece",
+    "awayTeam": "C\u00f4te d'Ivoire",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Australia",
+    "awayTeam": "Spain",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Chile",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Croatia",
+    "awayTeam": "Mexico",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Brazil",
+    "homeScore": 1,
+    "awayScore": 4,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Russia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Algeria",
+    "homeScore": 2,
+    "awayScore": 4,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "Portugal",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "IR Iran",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "Ghana",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Nigeria",
+    "awayTeam": "Bosnia-Herzegovina",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Switzerland",
+    "awayTeam": "France",
+    "homeScore": 2,
+    "awayScore": 5,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Honduras",
+    "awayTeam": "Ecuador",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Colombia",
+    "awayTeam": "C\u00f4te d'Ivoire",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "England",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Japan",
+    "awayTeam": "Greece",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Australia",
+    "awayTeam": "Netherlands",
+    "homeScore": 2,
+    "awayScore": 3,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Chile",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Croatia",
+    "homeScore": 0,
+    "awayScore": 4,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Algeria",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Mexico",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Russia",
+    "awayTeam": "Korea Republic",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "Portugal",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "IR Iran",
+    "awayTeam": "Nigeria",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Ghana",
+    "awayTeam": "United States",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Ecuador",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Honduras",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Bosnia-Herzegovina",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Colombia",
+    "awayTeam": "Greece",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Costa Rica",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Italy",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "C\u00f4te d'Ivoire",
+    "awayTeam": "Japan",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "Cameroon",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Netherlands",
+    "homeScore": 1,
+    "awayScore": 5,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Chile",
+    "awayTeam": "Australia",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2014,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Croatia",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 2010,
+    "round": "Final",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Spain",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Third-place match",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Germany",
+    "homeScore": 2,
+    "awayScore": 3,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Semi-finals",
+    "homeTeam": "Germany",
+    "awayTeam": "Spain",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Semi-finals",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Netherlands",
+    "homeScore": 2,
+    "awayScore": 3,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Quarter-finals",
+    "homeTeam": "Argentina",
+    "awayTeam": "Germany",
+    "homeScore": 0,
+    "awayScore": 4,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Quarter-finals",
+    "homeTeam": "Paraguay",
+    "awayTeam": "Spain",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Quarter-finals",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Brazil",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Quarter-finals",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Ghana",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Round of 16",
+    "homeTeam": "Paraguay",
+    "awayTeam": "Japan",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Round of 16",
+    "homeTeam": "Spain",
+    "awayTeam": "Portugal",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Round of 16",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Slovakia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Round of 16",
+    "homeTeam": "Brazil",
+    "awayTeam": "Chile",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Round of 16",
+    "homeTeam": "Germany",
+    "awayTeam": "England",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Round of 16",
+    "homeTeam": "Argentina",
+    "awayTeam": "Mexico",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Round of 16",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Korea Republic",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Round of 16",
+    "homeTeam": "United States",
+    "awayTeam": "Ghana",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "Brazil",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Korea DPR",
+    "awayTeam": "C\u00f4te d'Ivoire",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Chile",
+    "awayTeam": "Spain",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Honduras",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Paraguay",
+    "awayTeam": "New Zealand",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Denmark",
+    "awayTeam": "Japan",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Netherlands",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Slovenia",
+    "awayTeam": "England",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "Algeria",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Ghana",
+    "awayTeam": "Germany",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Australia",
+    "awayTeam": "Serbia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "Uruguay",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "South Africa",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Nigeria",
+    "awayTeam": "Korea Republic",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Greece",
+    "awayTeam": "Argentina",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "Korea DPR",
+    "homeScore": 7,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Chile",
+    "awayTeam": "Switzerland",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Honduras",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Slovakia",
+    "awayTeam": "Paraguay",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "New Zealand",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "C\u00f4te d'Ivoire",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Japan",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Ghana",
+    "awayTeam": "Australia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "Serbia",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Slovenia",
+    "awayTeam": "United States",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Algeria",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Korea Republic",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Mexico",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Switzerland",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "South Africa",
+    "awayTeam": "Uruguay",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "New Zealand",
+    "awayTeam": "Slovakia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "C\u00f4te d'Ivoire",
+    "awayTeam": "Portugal",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Korea DPR",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Denmark",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Japan",
+    "awayTeam": "Cameroon",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Paraguay",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Algeria",
+    "awayTeam": "Slovenia",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Serbia",
+    "awayTeam": "Ghana",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "Australia",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Greece",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Nigeria",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "United States",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "South Africa",
+    "awayTeam": "Mexico",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "South Africa"
+  },
+  {
+    "year": 2010,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "France",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "South Africa"
+  },
+  {
+    "year": 2006,
+    "round": "Final",
+    "homeTeam": "Italy",
+    "awayTeam": "France",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Third-place match",
+    "homeTeam": "Germany",
+    "awayTeam": "Portugal",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Semi-finals",
+    "homeTeam": "Portugal",
+    "awayTeam": "France",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Semi-finals",
+    "homeTeam": "Germany",
+    "awayTeam": "Italy",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Quarter-finals",
+    "homeTeam": "England",
+    "awayTeam": "Portugal",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Quarter-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "France",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Quarter-finals",
+    "homeTeam": "Germany",
+    "awayTeam": "Argentina",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Round of 16",
+    "homeTeam": "Brazil",
+    "awayTeam": "Ghana",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Round of 16",
+    "homeTeam": "Spain",
+    "awayTeam": "France",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Round of 16",
+    "homeTeam": "Italy",
+    "awayTeam": "Australia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Round of 16",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Ukraine",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Round of 16",
+    "homeTeam": "England",
+    "awayTeam": "Ecuador",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Round of 16",
+    "homeTeam": "Portugal",
+    "awayTeam": "Netherlands",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Round of 16",
+    "homeTeam": "Germany",
+    "awayTeam": "Sweden",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Round of 16",
+    "homeTeam": "Argentina",
+    "awayTeam": "Mexico",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Spain",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Ukraine",
+    "awayTeam": "Tunisia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Togo",
+    "awayTeam": "France",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Korea Republic",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Ghana",
+    "awayTeam": "United States",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Czechia",
+    "awayTeam": "Italy",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Japan",
+    "awayTeam": "Brazil",
+    "homeScore": 1,
+    "awayScore": 4,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Croatia",
+    "awayTeam": "Australia",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "Mexico",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "IR Iran",
+    "awayTeam": "Angola",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "C\u00f4te d'Ivoire",
+    "awayTeam": "Serbia and Montenegro",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Argentina",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Germany",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Paraguay",
+    "awayTeam": "Trinidad and Tobago",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "England",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Togo",
+    "awayTeam": "Switzerland",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Ukraine",
+    "homeScore": 0,
+    "awayScore": 4,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Tunisia",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Japan",
+    "awayTeam": "Croatia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Australia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Korea Republic",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "IR Iran",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Czechia",
+    "awayTeam": "Ghana",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "United States",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Serbia and Montenegro",
+    "homeScore": 6,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Netherlands",
+    "awayTeam": "C\u00f4te d'Ivoire",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "Angola",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Costa Rica",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Trinidad and Tobago",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Paraguay",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Ukraine",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Saudi Arabia",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "Poland",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Togo",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Switzerland",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Croatia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Australia",
+    "awayTeam": "Japan",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "Czechia",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Ghana",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Serbia and Montenegro",
+    "awayTeam": "Netherlands",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "IR Iran",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Angola",
+    "awayTeam": "Portugal",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Paraguay",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Trinidad and Tobago",
+    "awayTeam": "Sweden",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "C\u00f4te d'Ivoire",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "Costa Rica",
+    "homeScore": 4,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 2006,
+    "round": "Group stage",
+    "homeTeam": "Poland",
+    "awayTeam": "Ecuador",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 2002,
+    "round": "Final",
+    "homeTeam": "Germany",
+    "awayTeam": "Brazil",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Third-place match",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "T\u00fcrkiye",
+    "homeScore": 2,
+    "awayScore": 3,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Semi-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "T\u00fcrkiye",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Semi-finals",
+    "homeTeam": "Germany",
+    "awayTeam": "Korea Republic",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Quarter-finals",
+    "homeTeam": "Spain",
+    "awayTeam": "Korea Republic",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Quarter-finals",
+    "homeTeam": "Senegal",
+    "awayTeam": "T\u00fcrkiye",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Quarter-finals",
+    "homeTeam": "England",
+    "awayTeam": "Brazil",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Quarter-finals",
+    "homeTeam": "Germany",
+    "awayTeam": "United States",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Round of 16",
+    "homeTeam": "Japan",
+    "awayTeam": "T\u00fcrkiye",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Round of 16",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Italy",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Round of 16",
+    "homeTeam": "Mexico",
+    "awayTeam": "United States",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Round of 16",
+    "homeTeam": "Brazil",
+    "awayTeam": "Belgium",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Round of 16",
+    "homeTeam": "Sweden",
+    "awayTeam": "Senegal",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Round of 16",
+    "homeTeam": "Spain",
+    "awayTeam": "Republic of Ireland",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Round of 16",
+    "homeTeam": "Germany",
+    "awayTeam": "Paraguay",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Round of 16",
+    "homeTeam": "Denmark",
+    "awayTeam": "England",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Japan",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Russia",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "Korea Republic",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Poland",
+    "awayTeam": "United States",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Costa Rica",
+    "awayTeam": "Brazil",
+    "homeScore": 2,
+    "awayScore": 5,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "T\u00fcrkiye",
+    "awayTeam": "China PR",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "Italy",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Croatia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Argentina",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Nigeria",
+    "awayTeam": "England",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "South Africa",
+    "awayTeam": "Spain",
+    "homeScore": 2,
+    "awayScore": 3,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Slovenia",
+    "awayTeam": "Paraguay",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Denmark",
+    "awayTeam": "France",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Senegal",
+    "awayTeam": "Uruguay",
+    "homeScore": 3,
+    "awayScore": 3,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Republic of Ireland",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Germany",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "United States",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Belgium",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "Poland",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "Ecuador",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Costa Rica",
+    "awayTeam": "T\u00fcrkiye",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Japan",
+    "awayTeam": "Russia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "South Africa",
+    "awayTeam": "Slovenia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Croatia",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "China PR",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Nigeria",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Paraguay",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "England",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Denmark",
+    "awayTeam": "Senegal",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Saudi Arabia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Uruguay",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Russia",
+    "awayTeam": "Tunisia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "Portugal",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "Republic of Ireland",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Japan",
+    "awayTeam": "Belgium",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Poland",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Croatia",
+    "awayTeam": "Mexico",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "T\u00fcrkiye",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Ecuador",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Nigeria",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Paraguay",
+    "awayTeam": "South Africa",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Sweden",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Slovenia",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Denmark",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "Saudi Arabia",
+    "homeScore": 8,
+    "awayScore": 0,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 2002,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Senegal",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Korea Republic, Japan"
+  },
+  {
+    "year": 1998,
+    "round": "Final",
+    "homeTeam": "Brazil",
+    "awayTeam": "France",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Third-place match",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Croatia",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Semi-finals",
+    "homeTeam": "France",
+    "awayTeam": "Croatia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Semi-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "Netherlands",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Quarter-finals",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Argentina",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Quarter-finals",
+    "homeTeam": "Germany",
+    "awayTeam": "Croatia",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Quarter-finals",
+    "homeTeam": "Italy",
+    "awayTeam": "France",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Quarter-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "Denmark",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Round of 16",
+    "homeTeam": "Romania",
+    "awayTeam": "Croatia",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Round of 16",
+    "homeTeam": "Argentina",
+    "awayTeam": "England",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Round of 16",
+    "homeTeam": "Germany",
+    "awayTeam": "Mexico",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Round of 16",
+    "homeTeam": "Netherlands",
+    "awayTeam": "FR Yugoslavia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Round of 16",
+    "homeTeam": "France",
+    "awayTeam": "Paraguay",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Round of 16",
+    "homeTeam": "Italy",
+    "awayTeam": "Norway",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Round of 16",
+    "homeTeam": "Brazil",
+    "awayTeam": "Chile",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Croatia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Japan",
+    "awayTeam": "Jamaica",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Romania",
+    "awayTeam": "Tunisia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Colombia",
+    "awayTeam": "England",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Mexico",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Korea Republic",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "FR Yugoslavia",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "IR Iran",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "South Africa",
+    "awayTeam": "Saudi Arabia",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Denmark",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Bulgaria",
+    "homeScore": 6,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Nigeria",
+    "awayTeam": "Paraguay",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Austria",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Norway",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Scotland",
+    "awayTeam": "Morocco",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Colombia",
+    "awayTeam": "Tunisia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Romania",
+    "awayTeam": "England",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "FR Yugoslavia",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Jamaica",
+    "homeScore": 5,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "IR Iran",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Japan",
+    "awayTeam": "Croatia",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Mexico",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Korea Republic",
+    "homeScore": 5,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Paraguay",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "South Africa",
+    "awayTeam": "Denmark",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Saudi Arabia",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Chile",
+    "awayTeam": "Austria",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Scotland",
+    "awayTeam": "Norway",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Morocco",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Tunisia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Romania",
+    "awayTeam": "Colombia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "United States",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Japan",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "FR Yugoslavia",
+    "awayTeam": "IR Iran",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Jamaica",
+    "awayTeam": "Croatia",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Nigeria",
+    "homeScore": 2,
+    "awayScore": 3,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Mexico",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Belgium",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Paraguay",
+    "awayTeam": "Bulgaria",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Denmark",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "South Africa",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Austria",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Scotland",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1998,
+    "round": "Group stage",
+    "homeTeam": "Morocco",
+    "awayTeam": "Norway",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "France"
+  },
+  {
+    "year": 1994,
+    "round": "Final",
+    "homeTeam": "Brazil",
+    "awayTeam": "Italy",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Third-place match",
+    "homeTeam": "Sweden",
+    "awayTeam": "Bulgaria",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Semi-finals",
+    "homeTeam": "Sweden",
+    "awayTeam": "Brazil",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Quarter-finals",
+    "homeTeam": "Bulgaria",
+    "awayTeam": "Germany",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Quarter-finals",
+    "homeTeam": "Romania",
+    "awayTeam": "Sweden",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Quarter-finals",
+    "homeTeam": "Italy",
+    "awayTeam": "Spain",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Quarter-finals",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Brazil",
+    "homeScore": 2,
+    "awayScore": 3,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Round of 16",
+    "homeTeam": "Mexico",
+    "awayTeam": "Bulgaria",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Round of 16",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Republic of Ireland",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Round of 16",
+    "homeTeam": "Brazil",
+    "awayTeam": "United States",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Round of 16",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Sweden",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Round of 16",
+    "homeTeam": "Romania",
+    "awayTeam": "Argentina",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Round of 16",
+    "homeTeam": "Germany",
+    "awayTeam": "Belgium",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Round of 16",
+    "homeTeam": "Spain",
+    "awayTeam": "Switzerland",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Bulgaria",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Morocco",
+    "awayTeam": "Netherlands",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Saudi Arabia",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Mexico",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Republic of Ireland",
+    "awayTeam": "Norway",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Sweden",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "Korea Republic",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Bolivia",
+    "awayTeam": "Spain",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "Romania",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Colombia",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Netherlands",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Morocco",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Nigeria",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "Republic of Ireland",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Cameroon",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Russia",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Norway",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Bolivia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Romania",
+    "awayTeam": "Switzerland",
+    "homeScore": 1,
+    "awayScore": 4,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "Colombia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Greece",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "Spain",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Russia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Saudi Arabia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Morocco",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Norway",
+    "awayTeam": "Mexico",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Sweden",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "Switzerland",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Colombia",
+    "awayTeam": "Romania",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "Bolivia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "United States"
+  },
+  {
+    "year": 1994,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Korea Republic",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "United States"
+  },
+  {
+    "year": 1990,
+    "round": "Final",
+    "homeTeam": "West Germany",
+    "awayTeam": "Argentina",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Third-place match",
+    "homeTeam": "Italy",
+    "awayTeam": "England",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Semi-finals",
+    "homeTeam": "West Germany",
+    "awayTeam": "England",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Semi-finals",
+    "homeTeam": "Italy",
+    "awayTeam": "Argentina",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Quarter-finals",
+    "homeTeam": "West Germany",
+    "awayTeam": "Czechia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Quarter-finals",
+    "homeTeam": "England",
+    "awayTeam": "Cameroon",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Quarter-finals",
+    "homeTeam": "Yugoslavia",
+    "awayTeam": "Argentina",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Round of 16",
+    "homeTeam": "Spain",
+    "awayTeam": "Yugoslavia",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Round of 16",
+    "homeTeam": "England",
+    "awayTeam": "Belgium",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Round of 16",
+    "homeTeam": "Italy",
+    "awayTeam": "Uruguay",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Round of 16",
+    "homeTeam": "Brazil",
+    "awayTeam": "Argentina",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Round of 16",
+    "homeTeam": "West Germany",
+    "awayTeam": "Netherlands",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Round of 16",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Colombia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Round of 16",
+    "homeTeam": "Czechia",
+    "awayTeam": "Costa Rica",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Spain",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Uruguay",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Republic of Ireland",
+    "awayTeam": "Netherlands",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Egypt",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Costa Rica",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Scotland",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "West Germany",
+    "awayTeam": "Colombia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Austria",
+    "awayTeam": "United States",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Czechia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Romania",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Republic of Ireland",
+    "awayTeam": "Egypt",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Uruguay",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Spain",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Costa Rica",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Netherlands",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Scotland",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Austria",
+    "awayTeam": "Czechia",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Yugoslavia",
+    "awayTeam": "Colombia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "United States",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Spain",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Soviet Union",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Korea Republic",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Egypt",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Costa Rica",
+    "awayTeam": "Scotland",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Republic of Ireland",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "Czechia",
+    "homeScore": 1,
+    "awayScore": 5,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Sweden",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "United Arab Emirates",
+    "awayTeam": "Colombia",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Austria",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1990,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Cameroon",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1986,
+    "round": "Final",
+    "homeTeam": "Argentina",
+    "awayTeam": "West Germany",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Third-place match",
+    "homeTeam": "France",
+    "awayTeam": "Belgium",
+    "homeScore": 4,
+    "awayScore": 2,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Semi-finals",
+    "homeTeam": "France",
+    "awayTeam": "West Germany",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Semi-finals",
+    "homeTeam": "Argentina",
+    "awayTeam": "Belgium",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Quarter-finals",
+    "homeTeam": "Argentina",
+    "awayTeam": "England",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Quarter-finals",
+    "homeTeam": "Spain",
+    "awayTeam": "Belgium",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Quarter-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "France",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Quarter-finals",
+    "homeTeam": "West Germany",
+    "awayTeam": "Mexico",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Round of 16",
+    "homeTeam": "England",
+    "awayTeam": "Paraguay",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Round of 16",
+    "homeTeam": "Denmark",
+    "awayTeam": "Spain",
+    "homeScore": 1,
+    "awayScore": 5,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Round of 16",
+    "homeTeam": "Italy",
+    "awayTeam": "France",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Round of 16",
+    "homeTeam": "Morocco",
+    "awayTeam": "West Germany",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Round of 16",
+    "homeTeam": "Brazil",
+    "awayTeam": "Poland",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Round of 16",
+    "homeTeam": "Argentina",
+    "awayTeam": "Uruguay",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Round of 16",
+    "homeTeam": "Mexico",
+    "awayTeam": "Bulgaria",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Round of 16",
+    "homeTeam": "Soviet Union",
+    "awayTeam": "Belgium",
+    "homeScore": 3,
+    "awayScore": 4,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Scotland",
+    "awayTeam": "Uruguay",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Algeria",
+    "awayTeam": "Spain",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Northern Ireland",
+    "awayTeam": "Brazil",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Paraguay",
+    "awayTeam": "Belgium",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Iraq",
+    "awayTeam": "Mexico",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Poland",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "Morocco",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Bulgaria",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Italy",
+    "homeScore": 2,
+    "awayScore": 3,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Soviet Union",
+    "awayTeam": "Canada",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Hungary",
+    "awayTeam": "France",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "West Germany",
+    "awayTeam": "Scotland",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Iraq",
+    "awayTeam": "Belgium",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Denmark",
+    "awayTeam": "Uruguay",
+    "homeScore": 6,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "Paraguay",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Northern Ireland",
+    "awayTeam": "Spain",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Poland",
+    "awayTeam": "Portugal",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Algeria",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Hungary",
+    "awayTeam": "Canada",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Morocco",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Argentina",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Soviet Union",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Bulgaria",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Paraguay",
+    "awayTeam": "Iraq",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "West Germany",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Scotland",
+    "awayTeam": "Denmark",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Mexico",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Algeria",
+    "awayTeam": "Northern Ireland",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "England",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Korea Republic",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Morocco",
+    "awayTeam": "Poland",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Brazil",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1986,
+    "round": "Group stage",
+    "homeTeam": "Canada",
+    "awayTeam": "France",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1982,
+    "round": "Third-place match",
+    "homeTeam": "Poland",
+    "awayTeam": "France",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "Semi-finals",
+    "homeTeam": "West Germany",
+    "awayTeam": "France",
+    "homeScore": 3,
+    "awayScore": 3,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "Second group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Brazil",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "Second group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "England",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "Second group stage",
+    "homeTeam": "France",
+    "awayTeam": "Northern Ireland",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "Second group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Brazil",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "Second group stage",
+    "homeTeam": "West Germany",
+    "awayTeam": "Spain",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "Second group stage",
+    "homeTeam": "Austria",
+    "awayTeam": "Northern Ireland",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "Second group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Soviet Union",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "Second group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Argentina",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "Second group stage",
+    "homeTeam": "West Germany",
+    "awayTeam": "England",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "Second group stage",
+    "homeTeam": "Austria",
+    "awayTeam": "France",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "Second group stage",
+    "homeTeam": "Poland",
+    "awayTeam": "Belgium",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "England",
+    "awayTeam": "Kuwait",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "West Germany",
+    "awayTeam": "Austria",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Northern Ireland",
+    "awayTeam": "Spain",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "France",
+    "awayTeam": "Czechia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Algeria",
+    "awayTeam": "Chile",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "El Salvador",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "New Zealand",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "Hungary",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Soviet Union",
+    "awayTeam": "Scotland",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Algeria",
+    "awayTeam": "Austria",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "France",
+    "awayTeam": "Kuwait",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "England",
+    "awayTeam": "Czechia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Yugoslavia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Soviet Union",
+    "awayTeam": "New Zealand",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "El Salvador",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Scotland",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Hungary",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Chile",
+    "awayTeam": "Austria",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Czechia",
+    "awayTeam": "Kuwait",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "England",
+    "awayTeam": "France",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "West Germany",
+    "awayTeam": "Algeria",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Honduras",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Scotland",
+    "awayTeam": "New Zealand",
+    "homeScore": 5,
+    "awayScore": 2,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Soviet Union",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1982,
+    "round": "First group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Belgium",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Spain"
+  },
+  {
+    "year": 1978,
+    "round": "Final",
+    "homeTeam": "Argentina",
+    "awayTeam": "Netherlands",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "Third-place match",
+    "homeTeam": "Brazil",
+    "awayTeam": "Italy",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "Second round",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Italy",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "Second round",
+    "homeTeam": "Austria",
+    "awayTeam": "West Germany",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "Second round",
+    "homeTeam": "Brazil",
+    "awayTeam": "Poland",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "Second round",
+    "homeTeam": "Argentina",
+    "awayTeam": "Peru",
+    "homeScore": 6,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "Second round",
+    "homeTeam": "West Germany",
+    "awayTeam": "Netherlands",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "Second round",
+    "homeTeam": "Italy",
+    "awayTeam": "Austria",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "Second round",
+    "homeTeam": "Argentina",
+    "awayTeam": "Brazil",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "Second round",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Austria",
+    "homeScore": 5,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "Second round",
+    "homeTeam": "Brazil",
+    "awayTeam": "Peru",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "Second round",
+    "homeTeam": "Argentina",
+    "awayTeam": "Poland",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Brazil",
+    "awayTeam": "Austria",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Spain",
+    "awayTeam": "Sweden",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Peru",
+    "awayTeam": "IR Iran",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Scotland",
+    "awayTeam": "Netherlands",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "France",
+    "awayTeam": "Hungary",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Poland",
+    "awayTeam": "Mexico",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "West Germany",
+    "awayTeam": "Tunisia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Italy",
+    "awayTeam": "Argentina",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Austria",
+    "awayTeam": "Sweden",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Brazil",
+    "awayTeam": "Spain",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Peru",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Scotland",
+    "awayTeam": "IR Iran",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "West Germany",
+    "awayTeam": "Mexico",
+    "homeScore": 6,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Poland",
+    "awayTeam": "Tunisia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Argentina",
+    "awayTeam": "France",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Sweden",
+    "awayTeam": "Brazil",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Austria",
+    "awayTeam": "Spain",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Peru",
+    "awayTeam": "Scotland",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Netherlands",
+    "awayTeam": "IR Iran",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Italy",
+    "awayTeam": "France",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Mexico",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1978,
+    "round": "First round",
+    "homeTeam": "Argentina",
+    "awayTeam": "Hungary",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Argentina"
+  },
+  {
+    "year": 1974,
+    "round": "Final",
+    "homeTeam": "Netherlands",
+    "awayTeam": "West Germany",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "Third-place match",
+    "homeTeam": "Brazil",
+    "awayTeam": "Poland",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "Second round",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Brazil",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "Second round",
+    "homeTeam": "Argentina",
+    "awayTeam": "Germany DR",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "Second round",
+    "homeTeam": "Sweden",
+    "awayTeam": "Yugoslavia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "Second round",
+    "homeTeam": "Argentina",
+    "awayTeam": "Brazil",
+    "homeScore": 1,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "Second round",
+    "homeTeam": "Germany DR",
+    "awayTeam": "Netherlands",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "Second round",
+    "homeTeam": "West Germany",
+    "awayTeam": "Sweden",
+    "homeScore": 4,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "Second round",
+    "homeTeam": "Brazil",
+    "awayTeam": "Germany DR",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "Second round",
+    "homeTeam": "Sweden",
+    "awayTeam": "Poland",
+    "homeScore": 0,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "Second round",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Argentina",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Bulgaria",
+    "awayTeam": "Netherlands",
+    "homeScore": 1,
+    "awayScore": 4,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Sweden",
+    "awayTeam": "Uruguay",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Argentina",
+    "awayTeam": "Haiti",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Scotland",
+    "awayTeam": "Yugoslavia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Australia",
+    "awayTeam": "Chile",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Zaire",
+    "awayTeam": "Brazil",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Haiti",
+    "awayTeam": "Poland",
+    "homeScore": 0,
+    "awayScore": 7,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Bulgaria",
+    "awayTeam": "Uruguay",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Sweden",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Argentina",
+    "awayTeam": "Italy",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Australia",
+    "awayTeam": "West Germany",
+    "homeScore": 0,
+    "awayScore": 3,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Scotland",
+    "awayTeam": "Brazil",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Netherlands",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Sweden",
+    "awayTeam": "Bulgaria",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Italy",
+    "awayTeam": "Haiti",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Poland",
+    "awayTeam": "Argentina",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Germany DR",
+    "awayTeam": "Australia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Zaire",
+    "awayTeam": "Scotland",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Germany"
+  },
+  {
+    "year": 1974,
+    "round": "First round",
+    "homeTeam": "Brazil",
+    "awayTeam": "Yugoslavia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Germany"
+  },
+  {
+    "year": 1970,
+    "round": "Final",
+    "homeTeam": "Brazil",
+    "awayTeam": "Italy",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Third-place match",
+    "homeTeam": "West Germany",
+    "awayTeam": "Uruguay",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Semi-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "Uruguay",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Quarter-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "Peru",
+    "homeScore": 4,
+    "awayScore": 2,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Quarter-finals",
+    "homeTeam": "Italy",
+    "awayTeam": "Mexico",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Quarter-finals",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Soviet Union",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Quarter-finals",
+    "homeTeam": "West Germany",
+    "awayTeam": "England",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "Belgium",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Bulgaria",
+    "awayTeam": "Morocco",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Czechia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Romania",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Uruguay",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "El Salvador",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "England",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Israel",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Romania",
+    "awayTeam": "Czechia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Italy",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Soviet Union",
+    "awayTeam": "Belgium",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Peru",
+    "awayTeam": "Morocco",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Belgium",
+    "awayTeam": "El Salvador",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Czechia",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Sweden",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "West Germany",
+    "awayTeam": "Morocco",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Romania",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Israel",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1970,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "Soviet Union",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Mexico"
+  },
+  {
+    "year": 1966,
+    "round": "Final",
+    "homeTeam": "England",
+    "awayTeam": "West Germany",
+    "homeScore": 4,
+    "awayScore": 2,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Third-place match",
+    "homeTeam": "Portugal",
+    "awayTeam": "Soviet Union",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Semi-finals",
+    "homeTeam": "England",
+    "awayTeam": "Portugal",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Quarter-finals",
+    "homeTeam": "Portugal",
+    "awayTeam": "Korea DPR",
+    "homeScore": 5,
+    "awayScore": 3,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Quarter-finals",
+    "homeTeam": "England",
+    "awayTeam": "Argentina",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Quarter-finals",
+    "homeTeam": "West Germany",
+    "awayTeam": "Uruguay",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "France",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "West Germany",
+    "awayTeam": "Spain",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Mexico",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Switzerland",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "Brazil",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "West Germany",
+    "awayTeam": "Argentina",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "Bulgaria",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Mexico",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Switzerland",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "France",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "Hungary",
+    "awayTeam": "Brazil",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Spain",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Mexico",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "Portugal",
+    "awayTeam": "Hungary",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Bulgaria",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "West Germany",
+    "awayTeam": "Switzerland",
+    "homeScore": 5,
+    "awayScore": 0,
+    "host": "England"
+  },
+  {
+    "year": 1966,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Uruguay",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "England"
+  },
+  {
+    "year": 1962,
+    "round": "Final",
+    "homeTeam": "Brazil",
+    "awayTeam": "Czechia",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Semi-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "Chile",
+    "homeScore": 4,
+    "awayScore": 2,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Semi-finals",
+    "homeTeam": "Czechia",
+    "awayTeam": "Yugoslavia",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Quarter-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "England",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Quarter-finals",
+    "homeTeam": "Czechia",
+    "awayTeam": "Hungary",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Bulgaria",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "Czechia",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Switzerland",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Yugoslavia",
+    "awayTeam": "Colombia",
+    "homeScore": 5,
+    "awayScore": 0,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Soviet Union",
+    "awayTeam": "Uruguay",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Hungary",
+    "awayTeam": "Argentina",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Spain",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Mexico",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Soviet Union",
+    "awayTeam": "Colombia",
+    "homeScore": 4,
+    "awayScore": 4,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "West Germany",
+    "awayTeam": "Switzerland",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Czechia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Argentina",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Yugoslavia",
+    "awayTeam": "Uruguay",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Hungary",
+    "awayTeam": "England",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Czechia",
+    "awayTeam": "Spain",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Chile",
+    "awayTeam": "Switzerland",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Colombia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Mexico",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Chile"
+  },
+  {
+    "year": 1962,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Bulgaria",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Chile"
+  },
+  {
+    "year": 1958,
+    "round": "Final",
+    "homeTeam": "Brazil",
+    "awayTeam": "Sweden",
+    "homeScore": 5,
+    "awayScore": 2,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Third-place match",
+    "homeTeam": "France",
+    "awayTeam": "West Germany",
+    "homeScore": 6,
+    "awayScore": 3,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Semi-finals",
+    "homeTeam": "Sweden",
+    "awayTeam": "West Germany",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Semi-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "France",
+    "homeScore": 5,
+    "awayScore": 2,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Quarter-finals",
+    "homeTeam": "France",
+    "awayTeam": "Northern Ireland",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Quarter-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "Wales",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Quarter-finals",
+    "homeTeam": "Sweden",
+    "awayTeam": "Soviet Union",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage play-off",
+    "homeTeam": "Northern Ireland",
+    "awayTeam": "Czechia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage play-off",
+    "homeTeam": "Soviet Union",
+    "awayTeam": "England",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Wales",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Paraguay",
+    "awayTeam": "Yugoslavia",
+    "homeScore": 3,
+    "awayScore": 3,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Czechia",
+    "awayTeam": "Argentina",
+    "homeScore": 6,
+    "awayScore": 1,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Austria",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Soviet Union",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Hungary",
+    "awayTeam": "Mexico",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Scotland",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Hungary",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Soviet Union",
+    "awayTeam": "Austria",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "West Germany",
+    "awayTeam": "Czechia",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Northern Ireland",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Yugoslavia",
+    "awayTeam": "France",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Paraguay",
+    "awayTeam": "Scotland",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "England",
+    "homeScore": 0,
+    "awayScore": 0,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Mexico",
+    "awayTeam": "Wales",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Mexico",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Northern Ireland",
+    "awayTeam": "Czechia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Yugoslavia",
+    "awayTeam": "Scotland",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Austria",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Soviet Union",
+    "awayTeam": "England",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Paraguay",
+    "homeScore": 7,
+    "awayScore": 3,
+    "host": "Sweden"
+  },
+  {
+    "year": 1958,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "West Germany",
+    "homeScore": 1,
+    "awayScore": 3,
+    "host": "Sweden"
+  },
+  {
+    "year": 1954,
+    "round": "Final",
+    "homeTeam": "Germany",
+    "awayTeam": "Hungary",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Third-place match",
+    "homeTeam": "Austria",
+    "awayTeam": "Uruguay",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Semi-finals",
+    "homeTeam": "Hungary",
+    "awayTeam": "Uruguay",
+    "homeScore": 4,
+    "awayScore": 2,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Semi-finals",
+    "homeTeam": "Germany",
+    "awayTeam": "Austria",
+    "homeScore": 6,
+    "awayScore": 1,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Quarter-finals",
+    "homeTeam": "Germany",
+    "awayTeam": "Yugoslavia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Quarter-finals",
+    "homeTeam": "Hungary",
+    "awayTeam": "Brazil",
+    "homeScore": 4,
+    "awayScore": 2,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Quarter-finals",
+    "homeTeam": "Uruguay",
+    "awayTeam": "England",
+    "homeScore": 4,
+    "awayScore": 2,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Quarter-finals",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Austria",
+    "homeScore": 5,
+    "awayScore": 7,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage play-off",
+    "homeTeam": "Germany",
+    "awayTeam": "T\u00fcrkiye",
+    "homeScore": 7,
+    "awayScore": 2,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage play-off",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Italy",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "Hungary",
+    "awayTeam": "Germany",
+    "homeScore": 8,
+    "awayScore": 3,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "T\u00fcrkiye",
+    "awayTeam": "Korea Republic",
+    "homeScore": 7,
+    "awayScore": 0,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Belgium",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "Switzerland",
+    "awayTeam": "England",
+    "homeScore": 0,
+    "awayScore": 2,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Scotland",
+    "homeScore": 7,
+    "awayScore": 0,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Yugoslavia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "Austria",
+    "awayTeam": "Czechia",
+    "homeScore": 5,
+    "awayScore": 0,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Mexico",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Italy",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "Hungary",
+    "awayTeam": "Korea Republic",
+    "homeScore": 9,
+    "awayScore": 0,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "Germany",
+    "awayTeam": "T\u00fcrkiye",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Belgium",
+    "homeScore": 4,
+    "awayScore": 4,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Czechia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "Yugoslavia",
+    "awayTeam": "France",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Mexico",
+    "homeScore": 5,
+    "awayScore": 0,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1954,
+    "round": "Group stage",
+    "homeTeam": "Austria",
+    "awayTeam": "Scotland",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Switzerland"
+  },
+  {
+    "year": 1950,
+    "round": "Final stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Spain",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Final stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Brazil",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Final stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Spain",
+    "homeScore": 6,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Final stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Sweden",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Final stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Sweden",
+    "homeScore": 7,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Final stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Spain",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "Chile",
+    "awayTeam": "United States",
+    "homeScore": 5,
+    "awayScore": 2,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "Italy",
+    "awayTeam": "Paraguay",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Bolivia",
+    "homeScore": 8,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "England",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Mexico",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Yugoslavia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "Chile",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "England",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Paraguay",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Switzerland",
+    "homeScore": 2,
+    "awayScore": 2,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "Yugoslavia",
+    "awayTeam": "Mexico",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "Sweden",
+    "awayTeam": "Italy",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "England",
+    "awayTeam": "Chile",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "Spain",
+    "awayTeam": "United States",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "Yugoslavia",
+    "awayTeam": "Switzerland",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 1950,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Mexico",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "Brazil"
+  },
+  {
+    "year": 1938,
+    "round": "Third-place match",
+    "homeTeam": "Brazil",
+    "awayTeam": "Sweden",
+    "homeScore": 4,
+    "awayScore": 2,
+    "host": "France"
+  },
+  {
+    "year": 1938,
+    "round": "Semi-finals",
+    "homeTeam": "Hungary",
+    "awayTeam": "Sweden",
+    "homeScore": 5,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1938,
+    "round": "Semi-finals",
+    "homeTeam": "Italy",
+    "awayTeam": "Brazil",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1938,
+    "round": "Quarter-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "Czechia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1938,
+    "round": "Quarter-finals",
+    "homeTeam": "Sweden",
+    "awayTeam": "Cuba",
+    "homeScore": 8,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1938,
+    "round": "Quarter-finals",
+    "homeTeam": "Brazil",
+    "awayTeam": "Czechia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1938,
+    "round": "Quarter-finals",
+    "homeTeam": "Hungary",
+    "awayTeam": "Switzerland",
+    "homeScore": 2,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1938,
+    "round": "Quarter-finals",
+    "homeTeam": "Italy",
+    "awayTeam": "France",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1938,
+    "round": "Round of 16",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Germany",
+    "homeScore": 4,
+    "awayScore": 2,
+    "host": "France"
+  },
+  {
+    "year": 1938,
+    "round": "Round of 16",
+    "homeTeam": "Italy",
+    "awayTeam": "Norway",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1938,
+    "round": "Round of 16",
+    "homeTeam": "France",
+    "awayTeam": "Belgium",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1938,
+    "round": "Round of 16",
+    "homeTeam": "Brazil",
+    "awayTeam": "Poland",
+    "homeScore": 6,
+    "awayScore": 5,
+    "host": "France"
+  },
+  {
+    "year": 1938,
+    "round": "Round of 16",
+    "homeTeam": "Czechia",
+    "awayTeam": "Netherlands",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "France"
+  },
+  {
+    "year": 1938,
+    "round": "Round of 16",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Germany",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "France"
+  },
+  {
+    "year": 1934,
+    "round": "Final",
+    "homeTeam": "Italy",
+    "awayTeam": "Czechia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Third-place match",
+    "homeTeam": "Germany",
+    "awayTeam": "Austria",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Semi-finals",
+    "homeTeam": "Czechia",
+    "awayTeam": "Germany",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Semi-finals",
+    "homeTeam": "Italy",
+    "awayTeam": "Austria",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Quarter-finals",
+    "homeTeam": "Italy",
+    "awayTeam": "Spain",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Quarter-finals",
+    "homeTeam": "Austria",
+    "awayTeam": "Hungary",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Quarter-finals",
+    "homeTeam": "Czechia",
+    "awayTeam": "Switzerland",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Quarter-finals",
+    "homeTeam": "Italy",
+    "awayTeam": "Spain",
+    "homeScore": 1,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Quarter-finals",
+    "homeTeam": "Germany",
+    "awayTeam": "Sweden",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Round of 16",
+    "homeTeam": "Czechia",
+    "awayTeam": "Romania",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Round of 16",
+    "homeTeam": "Hungary",
+    "awayTeam": "Egypt",
+    "homeScore": 4,
+    "awayScore": 2,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Round of 16",
+    "homeTeam": "Austria",
+    "awayTeam": "France",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Round of 16",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Netherlands",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Round of 16",
+    "homeTeam": "Sweden",
+    "awayTeam": "Argentina",
+    "homeScore": 3,
+    "awayScore": 2,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Round of 16",
+    "homeTeam": "Spain",
+    "awayTeam": "Brazil",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Round of 16",
+    "homeTeam": "Germany",
+    "awayTeam": "Belgium",
+    "homeScore": 5,
+    "awayScore": 2,
+    "host": "Italy"
+  },
+  {
+    "year": 1934,
+    "round": "Round of 16",
+    "homeTeam": "Italy",
+    "awayTeam": "United States",
+    "homeScore": 7,
+    "awayScore": 1,
+    "host": "Italy"
+  },
+  {
+    "year": 1930,
+    "round": "Final",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Argentina",
+    "homeScore": 4,
+    "awayScore": 2,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Semi-finals",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Yugoslavia",
+    "homeScore": 6,
+    "awayScore": 1,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Semi-finals",
+    "homeTeam": "Argentina",
+    "awayTeam": "United States",
+    "homeScore": 6,
+    "awayScore": 1,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Chile",
+    "homeScore": 3,
+    "awayScore": 1,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Romania",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Group stage",
+    "homeTeam": "Brazil",
+    "awayTeam": "Bolivia",
+    "homeScore": 4,
+    "awayScore": 0,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Group stage",
+    "homeTeam": "Paraguay",
+    "awayTeam": "Belgium",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Group stage",
+    "homeTeam": "Chile",
+    "awayTeam": "France",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "Mexico",
+    "homeScore": 6,
+    "awayScore": 3,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Group stage",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Peru",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "Paraguay",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Group stage",
+    "homeTeam": "Chile",
+    "awayTeam": "Mexico",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Group stage",
+    "homeTeam": "Argentina",
+    "awayTeam": "France",
+    "homeScore": 1,
+    "awayScore": 0,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Group stage",
+    "homeTeam": "Yugoslavia",
+    "awayTeam": "Brazil",
+    "homeScore": 2,
+    "awayScore": 1,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Group stage",
+    "homeTeam": "United States",
+    "awayTeam": "Belgium",
+    "homeScore": 3,
+    "awayScore": 0,
+    "host": "Uruguay"
+  },
+  {
+    "year": 1930,
+    "round": "Group stage",
+    "homeTeam": "France",
+    "awayTeam": "Mexico",
+    "homeScore": 4,
+    "awayScore": 1,
+    "host": "Uruguay"
+  }
+]

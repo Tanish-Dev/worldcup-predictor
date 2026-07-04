@@ -1,26 +1,331 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+  --page: #f9f9f7;
+  --surface: #fcfcfb;
+  --surface-raised: #ffffff;
+  --ink-primary: #0b0b0b;
+  --ink-secondary: #52514e;
+  --ink-muted: #898781;
+  --gridline: #e1e0d9;
+  --axis: #c3c2b7;
+  --border: rgba(11, 11, 11, 0.1);
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --series-blue: #2a78d6;
+  --series-aqua: #1baf7a;
+  --series-yellow: #eda100;
+  --series-green: #008300;
+  --series-violet: #4a3aa7;
+  --series-red: #e34948;
+  --series-magenta: #e87ba4;
+  --series-orange: #eb6834;
+
+  --seq-100: #cde2fb;
+  --seq-250: #86b6ef;
+  --seq-400: #3987e5;
+  --seq-500: #256abf;
+  --seq-600: #184f95;
+  --seq-700: #0d366b;
+
+  --status-good: #0ca30c;
+  --status-warning: #fab219;
+  --status-critical: #d03b3b;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --page: #0d0d0d;
+    --surface: #1a1a19;
+    --surface-raised: #212120;
+    --ink-primary: #ffffff;
+    --ink-secondary: #c3c2b7;
+    --ink-muted: #898781;
+    --gridline: #2c2c2a;
+    --axis: #383835;
+    --border: rgba(255, 255, 255, 0.1);
+
+    --series-blue: #3987e5;
+    --series-aqua: #199e70;
+    --series-yellow: #c98500;
+    --series-green: #008300;
+    --series-violet: #9085e9;
+    --series-red: #e66767;
+    --series-magenta: #d55181;
+    --series-orange: #d95926;
+
+    --seq-100: #184f95;
+    --seq-250: #1c5cab;
+    --seq-400: #256abf;
+    --seq-500: #3987e5;
+    --seq-600: #6da7ec;
+    --seq-700: #9ec5f4;
+
+    --status-good: #0ca30c;
+    --status-warning: #fab219;
+    --status-critical: #d03b3b;
   }
 }
 
+:root[data-theme="light"] {
+  color-scheme: light;
+  --page: #f9f9f7;
+  --surface: #fcfcfb;
+  --surface-raised: #ffffff;
+  --ink-primary: #0b0b0b;
+  --ink-secondary: #52514e;
+  --ink-muted: #898781;
+  --gridline: #e1e0d9;
+  --axis: #c3c2b7;
+  --border: rgba(11, 11, 11, 0.1);
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0d0d;
+  --surface: #1a1a19;
+  --surface-raised: #212120;
+  --ink-primary: #ffffff;
+  --ink-secondary: #c3c2b7;
+  --ink-muted: #898781;
+  --gridline: #2c2c2a;
+  --axis: #383835;
+  --border: rgba(255, 255, 255, 0.1);
+}
+
+@theme inline {
+  --color-page: var(--page);
+  --color-surface: var(--surface);
+  --color-surface-raised: var(--surface-raised);
+  --color-ink-primary: var(--ink-primary);
+  --color-ink-secondary: var(--ink-secondary);
+  --color-ink-muted: var(--ink-muted);
+  --color-gridline: var(--gridline);
+  --color-axis: var(--axis);
+  --color-border: var(--border);
+  --font-sans: var(--font-inter);
+}
+
+html {
+  height: 100%;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: #070f1d;
+  color: var(--ink-primary);
+  font-family: var(--font-inter), system-ui, sans-serif;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  min-height: 100%;
+}
+
+/* One shared, fixed stadium backdrop for every route. Painting it once here
+   (instead of per-page with background-attachment: fixed) means route changes
+   and scrolling never re-rasterize the 2 MB photo — the main source of jank
+   when navigating to the dashboard. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: url("/world-cup-bg.png") center 30% / cover no-repeat;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.font-medium,
+strong,
+b {
+  font-weight: 500;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- Site pages (rankings/bracket/history/methodology/teams) ----------
+   Forces the same dark, stadium-photo look as the home dashboard onto every
+   inner page, regardless of the visitor's OS light/dark preference. Every
+   page and shared component only ever styles itself with the semantic
+   tokens below (bg-surface, text-ink-secondary, border-border, --seq-500,
+   ...), so overriding them here re-themes the whole site group without
+   touching each page's markup. */
+.site-dark {
+  --page: #0a1526;
+  --surface: rgba(255, 255, 255, 0.06);
+  --surface-raised: rgba(255, 255, 255, 0.1);
+  --ink-primary: #ffffff;
+  --ink-secondary: rgba(255, 255, 255, 0.7);
+  --ink-muted: rgba(255, 255, 255, 0.5);
+  --gridline: rgba(255, 255, 255, 0.14);
+  --axis: rgba(255, 255, 255, 0.35);
+  --border: rgba(255, 255, 255, 0.12);
+
+  --series-blue: #3987e5;
+  --series-aqua: #199e70;
+  --series-yellow: #c98500;
+  --series-green: #008300;
+  --series-violet: #9085e9;
+  --series-red: #e66767;
+  --series-magenta: #d55181;
+  --series-orange: #d95926;
+
+  --seq-100: #184f95;
+  --seq-250: #1c5cab;
+  --seq-400: #256abf;
+  --seq-500: #3987e5;
+  --seq-600: #6da7ec;
+  --seq-700: #9ec5f4;
+
+  color-scheme: dark;
+  min-height: 100vh;
+  /* readability scrim only — the stadium photo itself lives on body::before */
+  background: linear-gradient(
+    180deg,
+    rgba(6, 12, 24, 0.163),
+    rgba(7, 14, 27, 0.302)
+  );
+}
+
+/* ---------- World Cup dashboard (home page, always dark) ---------- */
+
+.wc-dash {
+  color: #fff;
+}
+
+/* fades the logo artwork's flat backdrop into the stadium photo behind it */
+.wc-logo-mask {
+  -webkit-mask-image: radial-gradient(
+    ellipse 36% 48% at 50% 50%,
+    black 55%,
+    transparent 98%
+  );
+  mask-image: radial-gradient(
+    ellipse 36% 48% at 50% 50%,
+    black 55%,
+    transparent 98%
+  );
+}
+
+.glass {
+  background: rgba(42, 42, 42, 0.168);
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  -webkit-backdrop-filter: blur(22px);
+  backdrop-filter: blur(22px);
+}
+
+.glass-deep {
+  background: rgba(6, 12, 24, 0.38);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  -webkit-backdrop-filter: blur(22px);
+  backdrop-filter: blur(22px);
+}
+
+.glass-chip {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.wc-select {
+  -webkit-appearance: none;
+  appearance: none;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 9999px;
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  padding: 0.375rem 1.9rem 0.375rem 0.9rem;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='white' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  cursor: pointer;
+}
+
+.wc-select:focus-visible {
+  outline: 2px solid rgba(255, 255, 255, 0.4);
+  outline-offset: 1px;
+}
+
+.wc-select option {
+  background: #0b1526;
+  color: #fff;
+}
+
+/* ---------- Route transitions (React <ViewTransition>) ----------
+   Page content is wrapped in <ViewTransition> — (site)/template.tsx for the
+   inner pages, the dashboard root on the home page. Navigations tagged
+   nav-forward on their <Link> get the rightward text slide; everything else
+   (including going home and the browser back button) gets a calm crossfade,
+   which animates GPU snapshots instead of live-painting the blur-heavy
+   dashboard — that is what removes the choppiness. */
+
+/* The pill nav is fixed and persists across every navigation — it never
+   actually changes. Without this, the View Transition snapshot for each
+   route change still includes the nav's blurred glass panel in the
+   captured/animated frame, doubling the (expensive, backdrop-filter-heavy)
+   rasterization work on every click and making navigation feel laggy. */
+::view-transition-group(site-header) {
+  animation: none;
+  z-index: 100;
+}
+::view-transition-old(site-header) {
+  display: none;
+}
+::view-transition-new(site-header) {
+  animation: none;
+}
+
+::view-transition-old(.page-fade) {
+  animation: 160ms ease-out both wc-vt-fade-out;
+}
+::view-transition-new(.page-fade) {
+  animation: 280ms ease-in 40ms both wc-vt-fade-in;
+}
+
+::view-transition-old(.page-slide) {
+  animation:
+    160ms ease-in both wc-vt-fade-out,
+    340ms cubic-bezier(0.22, 1, 0.36, 1) both wc-vt-slide-exit;
+}
+::view-transition-new(.page-slide) {
+  animation:
+    260ms ease-out 80ms both wc-vt-fade-in,
+    380ms cubic-bezier(0.22, 1, 0.36, 1) both wc-vt-slide-enter;
+}
+
+@keyframes wc-vt-fade-in {
+  from {
+    opacity: 0;
+  }
+}
+@keyframes wc-vt-fade-out {
+  to {
+    opacity: 0;
+  }
+}
+/* old text drifts out to the right… */
+@keyframes wc-vt-slide-exit {
+  to {
+    transform: translateX(48px);
+  }
+}
+/* …and new text slides in rightwards behind it */
+@keyframes wc-vt-slide-enter {
+  from {
+    transform: translateX(-48px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-old(*),
+  ::view-transition-new(*),
+  ::view-transition-group(*) {
+    animation-duration: 0s !important;
+    animation-delay: 0s !important;
+  }
 }

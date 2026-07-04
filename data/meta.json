@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-07-04T11:17:12.126842+00:00",
+  "simulations": 50000,
+  "homeAdvantage": 0.175,
+  "predictedChampion": "Brazil",
+  "topContenders": [
+    "Brazil",
+    "Germany",
+    "France",
+    "Netherlands"
+  ],
+  "methodology": "Team attack/defense ratings come from a Poisson goal-scoring model (scikit-learn PoissonRegressor, L2-regularized) fitted on all World Cup matches from 1930-2022. Teams with little or no World Cup history are calibrated against a linear fit between FIFA ranking points and the historical ratings of teams that have both. The 2026 tournament (12 groups of 4, top 2 plus 8 best third-place teams advance to a 32-team knockout) is simulated 20,000 times end-to-end with goals drawn from each team's fitted scoring rate; the round-of-32 bracket pairings are randomized each run since the official cross-group draw sheet depends on live group results. Knockout ties are broken by a simulated penalty shootout weighted toward the stronger side."
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "year": 2022,
+    "host": "Qatar",
+    "teams": 32,
+    "champion": "Argentina",
+    "runnerUp": "France",
+    "topScorer": "Kylian Mbapp\u00e9 - 8",
+    "attendance": 3404252,
+    "matches": 64
+  },
+  {
+    "year": 2018,
+    "host": "Russia",
+    "teams": 32,
+    "champion": "France",
+    "runnerUp": "Croatia",
+    "topScorer": "Harry Kane - 6",
+    "attendance": 3031768,
+    "matches": 64
+  },
+  {
+    "year": 2014,
+    "host": "Brazil",
+    "teams": 32,
+    "champion": "Germany",
+    "runnerUp": "Argentina",
+    "topScorer": "James Rodr\u00edguez - 6",
+    "attendance": 3429873,
+    "matches": 64
+  },
+  {
+    "year": 2010,
+    "host": "South Africa",
+    "teams": 32,
+    "champion": "Spain",
+    "runnerUp": "Netherlands",
+    "topScorer": "Wesley Sneijder, Thomas M\u00fcller... - 5",
+    "attendance": 3178856,
+    "matches": 64
+  },
+  {
+    "year": 2006,
+    "host": "Germany",
+    "teams": 32,
+    "champion": "Italy",
+    "runnerUp": "France",
+    "topScorer": "Miroslav Klose - 5",
+    "attendance": 3352605,
+    "matches": 64
+  },
+  {
+    "year": 2002,
+    "host": "Korea Republic, Japan",
+    "teams": 32,
+    "champion": "Brazil",
+    "runnerUp": "Germany",
+    "topScorer": "Ronaldo - 8",
+    "attendance": 2705337,
+    "matches": 64
+  },
+  {
+    "year": 1998,
+    "host": "France",
+    "teams": 32,
+    "champion": "France",
+    "runnerUp": "Brazil",
+    "topScorer": "Davor \u0160uker - 6",
+    "attendance": 2903477,
+    "matches": 64
+  },
+  {
+    "year": 1994,
+    "host": "United States",
+    "teams": 24,
+    "champion": "Brazil",
+    "runnerUp": "Italy",
+    "topScorer": "Hristo Stoichkov, Oleg Salenko - 6",
+    "attendance": 3587538,
+    "matches": 52
+  },
+  {
+    "year": 1990,
+    "host": "Italy",
+    "teams": 24,
+    "champion": "West Germany",
+    "runnerUp": "Argentina",
+    "topScorer": "Salvatore Schillaci - 6",
+    "attendance": 2516215,
+    "matches": 52
+  },
+  {
+    "year": 1986,
+    "host": "Mexico",
+    "teams": 24,
+    "champion": "Argentina",
+    "runnerUp": "West Germany",
+    "topScorer": "Gary Lineker - 6",
+    "attendance": 2394031,
+    "matches": 52
+  },
+  {
+    "year": 1982,
+    "host": "Spain",
+    "teams": 24,
+    "champion": "Italy",
+    "runnerUp": "West Germany",
+    "topScorer": "Paolo Rossi - 6",
+    "attendance": 2109723,
+    "matches": 52
+  },
+  {
+    "year": 1978,
+    "host": "Argentina",
+    "teams": 16,
+    "champion": "Argentina",
+    "runnerUp": "Netherlands",
+    "topScorer": "Mario Kempes - 6",
+    "attendance": 1545791,
+    "matches": 38
+  },
+  {
+    "year": 1974,
+    "host": "Germany",
+    "teams": 16,
+    "champion": "West Germany",
+    "runnerUp": "Netherlands",
+    "topScorer": "Grzegorz Lato - 7",
+    "attendance": 1865753,
+    "matches": 38
+  },
+  {
+    "year": 1970,
+    "host": "Mexico",
+    "teams": 16,
+    "champion": "Brazil",
+    "runnerUp": "Italy",
+    "topScorer": "Gerd M\u00fcller - 10",
+    "attendance": 1603975,
+    "matches": 32
+  },
+  {
+    "year": 1966,
+    "host": "England",
+    "teams": 16,
+    "champion": "England",
+    "runnerUp": "West Germany",
+    "topScorer": "Eus\u00e9bio - 9",
+    "attendance": 1563135,
+    "matches": 32
+  },
+  {
+    "year": 1962,
+    "host": "Chile",
+    "teams": 16,
+    "champion": "Brazil",
+    "runnerUp": "Czechoslovakia",
+    "topScorer": "Leonel S\u00e1nchez, Fl\u00f3ri\u00e1n Albert... - 4",
+    "attendance": 893172,
+    "matches": 32
+  },
+  {
+    "year": 1958,
+    "host": "Sweden",
+    "teams": 16,
+    "champion": "Brazil",
+    "runnerUp": "Sweden",
+    "topScorer": "Just Fontaine - 13",
+    "attendance": 819810,
+    "matches": 35
+  },
+  {
+    "year": 1954,
+    "host": "Switzerland",
+    "teams": 16,
+    "champion": "Germany",
+    "runnerUp": "Hungary",
+    "topScorer": "S\u00e1ndor Kocsis - 11",
+    "attendance": 768607,
+    "matches": 26
+  },
+  {
+    "year": 1950,
+    "host": "Brazil",
+    "teams": 15,
+    "champion": "Uruguay",
+    "runnerUp": "Brazil",
+    "topScorer": "Ademir - 8",
+    "attendance": 1045246,
+    "matches": 22
+  },
+  {
+    "year": 1938,
+    "host": "France",
+    "teams": 16,
+    "champion": "Italy",
+    "runnerUp": "Hungary",
+    "topScorer": "Le\u00f4nidas - 7",
+    "attendance": 375700,
+    "matches": 18
+  },
+  {
+    "year": 1934,
+    "host": "Italy",
+    "teams": 16,
+    "champion": "Italy",
+    "runnerUp": "Czechoslovakia",
+    "topScorer": "Old\u0159ich Nejedl\u00fd - 5",
+    "attendance": 363000,
+    "matches": 17
+  },
+  {
+    "year": 1930,
+    "host": "Uruguay",
+    "teams": 13,
+    "champion": "Uruguay",
+    "runnerUp": "Argentina",
+    "topScorer": "Guillermo St\u00e1bile - 8",
+    "attendance": 590549,
+    "matches": 18
+  }
+]

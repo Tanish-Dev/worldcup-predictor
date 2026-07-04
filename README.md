@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 2026 World Cup Predictor
 
-## Getting Started
+Who wins the 2026 FIFA World Cup — from here? This project trains a
+goal-scoring model on every World Cup match since 1930, then combines it with
+**live results from FIFA's public API**: matches already played are locked in
+as fact, and only the remaining bracket is simulated (20,000 times per
+refresh) to produce up-to-the-round title odds for every surviving team.
 
-First, run the development server:
+**Stack:** Next.js (App Router, Server Components, fetch revalidation/ISR,
+Server/Client boundary), TypeScript, Tailwind CSS, Recharts &middot;
+Python/scikit-learn for the model.
+
+## How it works
+
+1. **`model/pipeline.py`** fits a Poisson attack/defense rating for every team
+   on 964 historical World Cup matches (scikit-learn `PoissonRegressor`),
+   calibrates cold-start teams (debutants, sparse history) against FIFA
+   ranking points, fits a home-advantage term from each match's actual host
+   nation, then Monte Carlo simulates the pre-tournament bracket 50,000 times
+   and writes the results to `data/*.json`.
+2. **`src/lib/fifa.ts`** pulls the live 2026 match feed (results, scores,
+   penalty shootouts, the real knockout bracket, team flags) from FIFA's
+   public API, cached with Next.js `fetch` revalidation (5 minutes) so every
+   page is static-fast but never more than a few minutes stale.
+3. **`src/lib/liveOdds.ts`** re-simulates only the matches FIFA still lists as
+   unplayed, server-side, conditioning the title odds on everything already
+   decided on the pitch.
+4. **`src/lib/bracket.ts`** is the shared simulation engine — the same code
+   powers the server-side odds and the client-side "play out one ending"
+   button on `/bracket`.
+
+Full methodology write-up: `/methodology` in the running app.
+
+## Getting started
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Regenerating the model
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The prediction data in `data/` is checked in, so the app runs without Python.
+To regenerate it (e.g. after updating the source CSVs in `model/data-raw/`):
 
-## Learn More
+```bash
+cd model
+pip install -r requirements.txt
+python3 pipeline.py
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Project structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```
+model/               Python data pipeline (training + simulation)
+data/                Generated JSON consumed by the app
+src/app/             Routes: home, rankings, teams/[code], bracket, history, methodology
+src/components/      UI components (charts, tables, nav)
+src/lib/             Data access layer + client-side simulation
+```
