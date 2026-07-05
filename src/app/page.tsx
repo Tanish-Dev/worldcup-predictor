@@ -20,12 +20,11 @@ import ForecastCard, {
   type ForecastSide,
 } from "@/components/dashboard/ForecastCard";
 import {
+  BallIcon,
   CalendarIcon,
   ExpandIcon,
-  GaugeIcon,
   RefreshIcon,
   SlidersIcon,
-  SparklesIcon,
   TargetIcon,
 } from "@/components/dashboard/icons";
 
@@ -100,10 +99,9 @@ export default async function HomePage() {
     0,
   );
   const goalsPerMatch = played.length ? totalGoals / played.length : 0;
-  const peakGoals = played.reduce(
-    (mx, m) => Math.max(mx, (m.homeScore ?? 0) + (m.awayScore ?? 0)),
-    0,
-  );
+  const lastMatch = [...played].sort(
+    (a, b) => +new Date(b.date) - +new Date(a.date),
+  )[0];
 
   /* ---- team of the day: strongest surviving title contender ---- */
   const aliveRanked = live.alive
@@ -426,35 +424,35 @@ export default async function HomePage() {
                   FIFA WORLD CUP 2026
                 </p>
                 <h1 className="mt-1 text-[26px] leading-[1.15] font-medium tracking-tight">
-                  Intelligent Analytics Dashboard{" "}
-                  <SparklesIcon className="inline h-4 w-4 text-white/70" />
+                  Intelligent Analytics Dashboard
                 </h1>
                 <p className="mt-2 text-sm leading-relaxed font-light text-white/55">
-                  AI-powered real-time insights for the world&apos;s biggest
-                  football tournament — live from the{" "}
-                  {live.currentPhase.toLowerCase()}.
+                  Live AI insights from the {live.currentPhase.toLowerCase()}.
                 </p>
               </div>
 
-              <div className="glass rounded-3xl p-5">
-                <div className="flex items-start justify-between">
-                  <p className="text-base font-medium">Scoring Intensity</p>
-                  <span className="glass-chip flex h-9 w-9 items-center justify-center rounded-full text-white/75">
-                    <GaugeIcon className="h-4 w-4" />
-                  </span>
+              {lastMatch && (
+                <div className="glass rounded-3xl p-5">
+                  <div className="flex items-start justify-between">
+                    <p className="text-base font-medium">Previous Match</p>
+                    <span className="glass-chip flex h-9 w-9 items-center justify-center rounded-full text-white/75">
+                      <BallIcon className="h-4 w-4" />
+                    </span>
+                  </div>
+                  <p className="mt-2 flex items-baseline gap-1.5">
+                    <span className="tabular text-5xl font-semibold tracking-tight">
+                      {lastMatch.homeScore}-{lastMatch.awayScore}
+                    </span>
+                    <span className="text-xs text-white/50">Full time</span>
+                  </p>
+                  <p className="mt-1.5 text-sm font-light text-white/55">
+                    <span className="text-teal-300">
+                      {teamName(lastMatch.homeCode)}
+                    </span>{" "}
+                    vs {teamName(lastMatch.awayCode)}
+                  </p>
                 </div>
-                <p className="mt-2 flex items-baseline gap-1.5">
-                  <span className="tabular text-5xl font-semibold tracking-tight">
-                    {goalsPerMatch.toFixed(1)}
-                  </span>
-                  <span className="text-xs text-white/50">Average</span>
-                </p>
-                <p className="mt-1.5 text-sm font-light text-white/55">
-                  Match peak{" "}
-                  <span className="tabular text-teal-300">{peakGoals}</span>{" "}
-                  goals
-                </p>
-              </div>
+              )}
 
               <div className="grid grid-cols-2 gap-3">
                 <div className="glass rounded-3xl p-4">
