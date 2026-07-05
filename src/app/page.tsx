@@ -360,7 +360,7 @@ export default async function HomePage() {
     <>
       <div className="wc-dash min-h-screen">
         <div className="mx-auto max-w-[1760px] px-4 pt-20 pb-4 xl:px-6 xl:pt-4">
-          <div className="grid gap-4 xl:grid-rows-[auto_1fr] xl:grid-cols-[minmax(450px,340px)_minmax(0,1fr)_minmax(450px,380px)]">
+          <div className="grid gap-4 xl:grid-rows-[auto_1fr] xl:grid-cols-[minmax(300px,360px)_minmax(0,1fr)_minmax(300px,360px)]">
             {/* ------------------------------ hero logo ------------------------------
                  first in DOM so it's the first thing seen on mobile (stacked
                  layout, above the dashboard card); pinned to the top of the
