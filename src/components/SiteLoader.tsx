@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Image from "next/image";
 
 const MIN_VISIBLE_MS = 500;
 const SAFETY_TIMEOUT_MS = 10000;
@@ -48,7 +49,7 @@ export default function SiteLoader() {
     // the stadium backdrop is a CSS background-image, not an <img>, so it
     // needs its own explicit load check.
     pending += 1;
-    const bg = new Image();
+    const bg = new window.Image();
     bg.addEventListener("load", onSettle, { once: true });
     bg.addEventListener("error", onSettle, { once: true });
     bg.src = "/world-cup-bg.png";
@@ -76,9 +77,12 @@ export default function SiteLoader() {
         fading ? "pointer-events-none opacity-0" : "opacity-100"
       }`}
     >
-      <img
+      <Image
         src="/2026_FIFA_World_Cup_emblem.svg.png"
         alt="FIFA World Cup 2026"
+        width={145}
+        height={224}
+        priority
         className="h-28 w-auto object-contain"
       />
       <div className="loader-ball-wrap">

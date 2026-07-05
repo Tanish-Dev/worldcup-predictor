@@ -1,0 +1,68 @@
+/* Typewriter Effect for Developer Signature */
+.developer-signature {
+  display: flex;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  background: #ffffff00;
+  padding-top: 24px;
+  padding-bottom: 16px;
+}
+
+.typewriter {
+  position: relative;
+  font-family: Instrument Serif;
+  font-style: italic;
+  font-size: 1.1rem;
+  color: #ffffff66;
+  overflow: hidden;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  margin-top: 0;
+  display: inline-block;
+  /* Improved stability across screen sizes */
+  min-height: 1.5em;
+  min-width: 1ch;
+  max-width: 100%;
+  will-change: contents; /* Performance optimization */
+}
+
+/* Style for the developer name */
+.developer-name {
+  color: #ffffff88;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.typewriter::after {
+  content: "";
+  position: absolute;
+  right: -4px;
+  top: 0;
+  height: 100%;
+  width: 2px;
+  background-color: #9e9e9e00;
+  animation: cursor-blink 1s step-end infinite;
+}
+
+@keyframes cursor-blink {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+/* Since we're handling the typing animation completely in JavaScript,
+   we don't need the CSS animation anymore, but keeping the keyframes
+   definition for future reference */
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
