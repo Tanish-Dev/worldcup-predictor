@@ -437,8 +437,19 @@ export default async function HomePage() {
                 <div className="glass rounded-3xl p-5">
                   <div className="flex items-start justify-between">
                     <p className="text-base font-medium">Previous Match</p>
-                    <span className="glass-chip flex h-9 w-9 items-center justify-center rounded-full text-white/75">
-                      <BallIcon className="h-4 w-4" />
+                    <span className="glass-chip flex h-9 w-9 items-center justify-center overflow-hidden rounded-full text-white/75">
+                      {lastMatch.winnerCode ? (
+                        <Image
+                          src={flagUrl(lastMatch.winnerCode, 3)}
+                          alt={`${teamName(lastMatch.winnerCode)} flag`}
+                          width={36}
+                          height={36}
+                          unoptimized
+                          className="h-full w-full object-cover"
+                        />
+                      ) : (
+                        <BallIcon className="h-4 w-4" />
+                      )}
                     </span>
                   </div>
                   <p className="mt-2 flex items-baseline gap-1.5">
