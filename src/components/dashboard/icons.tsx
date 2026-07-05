@@ -80,6 +80,15 @@ export function CalendarIcon(p: IconProps) {
   );
 }
 
+export function HomeIcon(p: IconProps) {
+  return (
+    <Base {...p}>
+      <path d="M3 11l9-8 9 8" />
+      <path d="M5 10v10a1 1 0 0 0 1 1h4v-6h4v6h4a1 1 0 0 0 1-1V10" />
+    </Base>
+  );
+}
+
 export function UsersIcon(p: IconProps) {
   return (
     <Base {...p}>
@@ -113,6 +122,39 @@ export function TrophyIcon(p: IconProps) {
       <path d="M8 21h8M12 17v4" />
       <path d="M7 3h10v7a5 5 0 0 1-10 0z" />
       <path d="M7 5H4a1 1 0 0 0-1 1 4 4 0 0 0 4 4M17 5h3a1 1 0 0 1 1 1 4 4 0 0 1-4 4" />
+    </Base>
+  );
+}
+
+export function ShirtIcon(p: IconProps) {
+  return (
+    <Base {...p}>
+      <path d="M8 3 3 7l3 3 2-2v11a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V8l2 2 3-3-5-4a3 3 0 0 1-6 0z" />
+    </Base>
+  );
+}
+
+export function MapPinIcon(p: IconProps) {
+  return (
+    <Base {...p}>
+      <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z" />
+      <circle cx="12" cy="10" r="3" />
+    </Base>
+  );
+}
+
+export function MenuIcon(p: IconProps) {
+  return (
+    <Base {...p}>
+      <path d="M3 6h18M3 12h18M3 18h18" />
+    </Base>
+  );
+}
+
+export function CloseIcon(p: IconProps) {
+  return (
+    <Base {...p}>
+      <path d="M18 6 6 18M6 6l12 12" />
     </Base>
   );
 }

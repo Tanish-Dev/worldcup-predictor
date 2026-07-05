@@ -38,9 +38,9 @@ export default function PlayOutSimulator({
     : [];
 
   return (
-    <div className="glass rounded-3xl p-6 sm:p-8">
-      <div className="flex flex-wrap items-center justify-between gap-4">
-        <div>
+    <div className="glass rounded-3xl p-5 sm:p-8">
+      <div className="flex flex-col gap-4 sm:flex-row sm:flex-wrap sm:items-center sm:justify-between">
+        <div className="min-w-0">
           <h2 className="text-xl font-medium tracking-tight">Play out one ending</h2>
           <p className="mt-1 text-sm text-ink-secondary">
             One random completion of the remaining matches, weighted by each
@@ -49,7 +49,7 @@ export default function PlayOutSimulator({
         </div>
         <button
           onClick={run}
-          className="rounded-full bg-white px-5 py-2.5 text-sm font-medium text-[#0a1526] transition hover:bg-white/90"
+          className="w-full shrink-0 rounded-full bg-white px-5 py-2.5 text-center text-sm font-medium text-[#0a1526] transition hover:bg-white/90 sm:w-auto"
         >
           {outcome ? `Roll again (#${runs + 1})` : "Roll the bracket"}
         </button>
@@ -57,11 +57,11 @@ export default function PlayOutSimulator({
 
       {outcome && (
         <div className="mt-8">
-          <div className="glass-deep flex items-center gap-4 rounded-2xl p-5">
+          <div className="glass-deep flex items-center gap-4 rounded-2xl p-4 sm:p-5">
             <Flag code={outcome.champion} name={names[outcome.champion]} size="lg" />
-            <div>
+            <div className="min-w-0">
               <p className="text-sm text-ink-secondary">This run&apos;s champion</p>
-              <p className="text-2xl font-medium tracking-tight">
+              <p className="truncate text-2xl font-medium tracking-tight">
                 {names[outcome.champion] ?? outcome.champion}
               </p>
             </div>

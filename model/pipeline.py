@@ -94,6 +94,56 @@ def canonicalize_historical_matches(matches: pd.DataFrame) -> pd.DataFrame:
     return matches
 
 
+def parse_scorer_names(field) -> list[str]:
+    """Goal-scorer fields look like 'Ángel Di María · 36|Lionel Messi · 108'
+    (one pipe-separated entry per goal, name before the '·')."""
+    if pd.isna(field):
+        return []
+    names = []
+    for part in str(field).split("|"):
+        part = part.strip()
+        if part:
+            names.append(part.split("·")[0].strip())
+    return names
+
+
+def build_players(matches: pd.DataFrame) -> list[dict]:
+    """All-time World Cup goal-scorers, aggregated from the home/away goal
+    and penalty-goal fields embedded in the 1930-2022 match archive. Own
+    goals and penalty-shootout goals are excluded, matching the usual
+    top-scorer convention."""
+    goals: dict[str, int] = {}
+    tournaments: dict[str, set] = {}
+    team_counts: dict[str, dict[str, int]] = {}
+
+    def record(name: str, team: str, year: int) -> None:
+        goals[name] = goals.get(name, 0) + 1
+        tournaments.setdefault(name, set()).add(year)
+        counts = team_counts.setdefault(name, {})
+        counts[team] = counts.get(team, 0) + 1
+
+    for _, m in matches.iterrows():
+        year = int(m["Year"])
+        for side in ("home", "away"):
+            team = m[f"{side}_team"]
+            for name in parse_scorer_names(m[f"{side}_goal"]):
+                record(name, team, year)
+            for name in parse_scorer_names(m[f"{side}_penalty_goal"]):
+                record(name.replace("(P)", "").strip(), team, year)
+
+    players_out = [
+        {
+            "name": name,
+            "team": max(team_counts[name], key=team_counts[name].get),
+            "goals": g,
+            "tournaments": sorted(tournaments[name]),
+        }
+        for name, g in goals.items()
+    ]
+    players_out.sort(key=lambda p: (-p["goals"], p["name"]))
+    return players_out
+
+
 def fit_attack_defense(matches: pd.DataFrame) -> tuple[dict, dict, float]:
     """Fit a Maher-style Poisson goal model: for a match between team i (at
     home) and team j, home goals ~ Poisson(exp(attack_i - defense_j + home_adv))
@@ -353,6 +403,9 @@ def main() -> None:
             "matches": int(row["Matches"]) if pd.notna(row["Matches"]) else None,
         })
 
+    print("Aggregating all-time player goal-scoring stats...")
+    players_out = build_players(matches)
+
     groups_out = {g: ts for g, ts in groups.items()}
 
     predicted_champion = teams_out[0]
@@ -384,6 +437,7 @@ def main() -> None:
     (OUT / "history.json").write_text(json.dumps(history_out, indent=2))
     (OUT / "matches.json").write_text(json.dumps(matches_out, indent=2))
     (OUT / "meta.json").write_text(json.dumps(meta_out, indent=2))
+    (OUT / "players.json").write_text(json.dumps(players_out, indent=2))
     print(f"Done. Predicted champion: {predicted_champion['name']} "
           f"({predicted_champion['predictions']['champion']*100:.1f}% of simulations)")
 

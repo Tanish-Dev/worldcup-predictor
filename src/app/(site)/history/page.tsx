@@ -17,7 +17,7 @@ export default async function HistoryPage() {
   const titlesRanked = [...titleCounts.entries()].sort((a, b) => b[1] - a[1]);
 
   return (
-    <div className="mx-auto max-w-4xl px-6 py-16">
+    <div className="mx-auto max-w-4xl px-4 sm:px-6 py-10 sm:py-16">
       <h1 className="text-3xl font-medium tracking-tight">World Cup history</h1>
       <p className="mt-3 max-w-2xl text-ink-secondary">
         Every tournament since 1930 — the data the model was trained on.

@@ -81,6 +81,12 @@ export interface LiveMatch {
   /** For unresolved knockout slots: "W89" = winner of match 89 */
   homePlaceholder: string | null;
   awayPlaceholder: string | null;
+  /** FIFA's internal ids for this match, needed to fetch its event timeline */
+  idStage: string;
+  idMatch: string;
+  /** FIFA's internal numeric team ids, needed to attribute player events to a side */
+  homeTeamId: string | null;
+  awayTeamId: string | null;
 }
 
 export type TeamStatus =
@@ -106,6 +112,15 @@ export interface LiveOdds {
   >;
   /** per upcoming match number: probability the home slot wins */
   matchHomeWinProb: Record<number, number>;
+}
+
+export interface PlayerStat {
+  name: string;
+  /** Team name at the time they scored (historical name, e.g. "West Germany"). */
+  team: string;
+  goals: number;
+  /** World Cup years they scored in. */
+  tournaments: number[];
 }
 
 export interface Meta {

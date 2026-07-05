@@ -77,7 +77,13 @@ export default function SimulatorCard({
               <div className="mt-4 grid grid-cols-3 text-xs">
                 <div>
                   <p className="truncate text-white/70">{match.homeName}</p>
-                  <p className="tabular mt-0.5 font-medium text-emerald-400">
+                  <p
+                    className={`tabular mt-0.5 font-medium ${
+                      match.homePct >= match.awayPct
+                        ? "text-emerald-400"
+                        : "text-red-400"
+                    }`}
+                  >
                     {Math.round(match.homePct)}%
                   </p>
                 </div>
@@ -89,14 +95,24 @@ export default function SimulatorCard({
                 </div>
                 <div className="text-right">
                   <p className="truncate text-white/70">{match.awayName}</p>
-                  <p className="tabular mt-0.5 font-medium text-red-400">
+                  <p
+                    className={`tabular mt-0.5 font-medium ${
+                      match.awayPct > match.homePct
+                        ? "text-emerald-400"
+                        : "text-red-400"
+                    }`}
+                  >
                     {Math.round(match.awayPct)}%
                   </p>
                 </div>
               </div>
               <div className="mt-2 flex h-1.5 gap-1 overflow-hidden rounded-full">
                 <span
-                  className="rounded-full bg-emerald-500"
+                  className={`rounded-full ${
+                    match.homePct >= match.awayPct
+                      ? "bg-emerald-500"
+                      : "bg-red-500"
+                  }`}
                   style={{ width: `${match.homePct}%` }}
                 />
                 {match.drawPct > 0.5 && (
@@ -106,7 +122,11 @@ export default function SimulatorCard({
                   />
                 )}
                 <span
-                  className="rounded-full bg-red-500"
+                  className={`rounded-full ${
+                    match.awayPct > match.homePct
+                      ? "bg-emerald-500"
+                      : "bg-red-500"
+                  }`}
                   style={{ width: `${match.awayPct}%` }}
                 />
               </div>

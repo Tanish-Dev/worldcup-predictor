@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getTeamByCode, getTeamMatches, getTeams } from "@/lib/data";
+import { getPlayers, getTeamByCode, getTeamMatches, getTeams } from "@/lib/data";
 import { getLiveTournament } from "@/lib/fifa";
 import { getLiveOdds } from "@/lib/liveOdds";
 import type { TeamPredictions } from "@/lib/types";
@@ -39,12 +39,17 @@ export default async function TeamPage({
   const team = await getTeamByCode(code);
   if (!team) notFound();
 
-  const [matches, live, odds, teams] = await Promise.all([
+  const [matches, live, odds, teams, players] = await Promise.all([
     getTeamMatches(team.name),
     getLiveTournament(),
     getLiveOdds(),
     getTeams(),
+    getPlayers(),
   ]);
+
+  const topScorers = players
+    .filter((p) => p.team.toLowerCase() === team.name.toLowerCase())
+    .slice(0, 5);
 
   const names = Object.fromEntries(teams.map((t) => [t.code, t.name]));
   const status = live.status[team.code];
@@ -56,7 +61,7 @@ export default async function TeamPage({
   const liveGroup = campaign.find((m) => m.phase === "Group stage")?.group ?? team.group;
 
   return (
-    <div className="mx-auto max-w-4xl px-6 py-16">
+    <div className="mx-auto max-w-4xl px-4 sm:px-6 py-10 sm:py-16">
       <Link href="/rankings" className="text-sm text-ink-secondary hover:text-ink-primary">
         &larr; All teams
       </Link>
@@ -189,6 +194,33 @@ export default async function TeamPage({
           ))}
         </div>
       </section>
+
+      {topScorers.length > 0 && (
+        <section className="mt-14">
+          <h2 className="text-xl font-medium tracking-tight">Top scorers</h2>
+          <p className="mt-1 text-sm text-ink-secondary">
+            {team.name}&apos;s all-time leading World Cup goal-scorers, 1930-2022.
+          </p>
+          <div className="mt-6 space-y-2">
+            {topScorers.map((p) => (
+              <div
+                key={p.name}
+                className="glass-chip flex items-center justify-between gap-3 rounded-xl px-4 py-3 text-sm"
+              >
+                <span className="font-medium">{p.name}</span>
+                <span className="flex items-center gap-4 text-ink-secondary">
+                  <span title={p.tournaments.join(", ")}>
+                    {p.tournaments.length} World Cup{p.tournaments.length > 1 ? "s" : ""}
+                  </span>
+                  <span className="tabular font-medium text-ink-primary">
+                    {p.goals} goal{p.goals > 1 ? "s" : ""}
+                  </span>
+                </span>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
 
       {matches.length > 0 && (
         <section className="mt-14">

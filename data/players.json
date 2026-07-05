@@ -1,0 +1,11382 @@
+[
+  {
+    "name": "Miroslav Klose",
+    "team": "Germany",
+    "goals": 16,
+    "tournaments": [
+      2002,
+      2006,
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Ronaldo",
+    "team": "Brazil",
+    "goals": 15,
+    "tournaments": [
+      1998,
+      2002,
+      2006
+    ]
+  },
+  {
+    "name": "Gerd M\u00fcller",
+    "team": "West Germany",
+    "goals": 14,
+    "tournaments": [
+      1970,
+      1974
+    ]
+  },
+  {
+    "name": "Just Fontaine",
+    "team": "France",
+    "goals": 13,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Lionel Messi",
+    "team": "Argentina",
+    "goals": 13,
+    "tournaments": [
+      2006,
+      2014,
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "Kylian Mbapp\u00e9",
+    "team": "France",
+    "goals": 12,
+    "tournaments": [
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "Pel\u00e9",
+    "team": "Brazil",
+    "goals": 12,
+    "tournaments": [
+      1958,
+      1962,
+      1966,
+      1970
+    ]
+  },
+  {
+    "name": "J\u00fcrgen Klinsmann",
+    "team": "Germany",
+    "goals": 11,
+    "tournaments": [
+      1990,
+      1994,
+      1998
+    ]
+  },
+  {
+    "name": "S\u00e1ndor Kocsis",
+    "team": "Hungary",
+    "goals": 11,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Gabriel Batistuta",
+    "team": "Argentina",
+    "goals": 10,
+    "tournaments": [
+      1994,
+      1998,
+      2002
+    ]
+  },
+  {
+    "name": "Gary Lineker",
+    "team": "England",
+    "goals": 10,
+    "tournaments": [
+      1986,
+      1990
+    ]
+  },
+  {
+    "name": "Grzegorz Lato",
+    "team": "Poland",
+    "goals": 10,
+    "tournaments": [
+      1974,
+      1978,
+      1982
+    ]
+  },
+  {
+    "name": "Helmut Rahn",
+    "team": "West Germany",
+    "goals": 10,
+    "tournaments": [
+      1954,
+      1958
+    ]
+  },
+  {
+    "name": "Te\u00f3filo Cubillas",
+    "team": "Peru",
+    "goals": 10,
+    "tournaments": [
+      1970,
+      1978
+    ]
+  },
+  {
+    "name": "Thomas M\u00fcller",
+    "team": "Germany",
+    "goals": 10,
+    "tournaments": [
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Christian Vieri",
+    "team": "Italy",
+    "goals": 9,
+    "tournaments": [
+      1998,
+      2002
+    ]
+  },
+  {
+    "name": "David Villa",
+    "team": "Spain",
+    "goals": 9,
+    "tournaments": [
+      2006,
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Eus\u00e9bio",
+    "team": "Portugal",
+    "goals": 9,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Jairzinho",
+    "team": "Brazil",
+    "goals": 9,
+    "tournaments": [
+      1970,
+      1974
+    ]
+  },
+  {
+    "name": "Karl-Heinz Rummenigge",
+    "team": "West Germany",
+    "goals": 9,
+    "tournaments": [
+      1978,
+      1982,
+      1986
+    ]
+  },
+  {
+    "name": "Paolo Rossi",
+    "team": "Italy",
+    "goals": 9,
+    "tournaments": [
+      1978,
+      1982
+    ]
+  },
+  {
+    "name": "Roberto Baggio",
+    "team": "Italy",
+    "goals": 9,
+    "tournaments": [
+      1990,
+      1994,
+      1998
+    ]
+  },
+  {
+    "name": "Uwe Seeler",
+    "team": "West Germany",
+    "goals": 9,
+    "tournaments": [
+      1958,
+      1962,
+      1966,
+      1970
+    ]
+  },
+  {
+    "name": "Vav\u00e1",
+    "team": "Brazil",
+    "goals": 9,
+    "tournaments": [
+      1958,
+      1962
+    ]
+  },
+  {
+    "name": "Ademir",
+    "team": "Brazil",
+    "goals": 8,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "team": "Portugal",
+    "goals": 8,
+    "tournaments": [
+      2006,
+      2010,
+      2014,
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "Diego Maradona",
+    "team": "Argentina",
+    "goals": 8,
+    "tournaments": [
+      1982,
+      1986,
+      1994
+    ]
+  },
+  {
+    "name": "Guillermo St\u00e1bile",
+    "team": "Argentina",
+    "goals": 8,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Harry Kane",
+    "team": "England",
+    "goals": 8,
+    "tournaments": [
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "Le\u00f4nidas",
+    "team": "Brazil",
+    "goals": 8,
+    "tournaments": [
+      1934,
+      1938
+    ]
+  },
+  {
+    "name": "Neymar",
+    "team": "Brazil",
+    "goals": 8,
+    "tournaments": [
+      2014,
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "Rivaldo",
+    "team": "Brazil",
+    "goals": 8,
+    "tournaments": [
+      1998,
+      2002
+    ]
+  },
+  {
+    "name": "Rudi V\u00f6ller",
+    "team": "West Germany",
+    "goals": 8,
+    "tournaments": [
+      1986,
+      1990,
+      1994
+    ]
+  },
+  {
+    "name": "\u00d3scar M\u00edguez",
+    "team": "Uruguay",
+    "goals": 8,
+    "tournaments": [
+      1950,
+      1954
+    ]
+  },
+  {
+    "name": "Andrzej Szarmach",
+    "team": "Poland",
+    "goals": 7,
+    "tournaments": [
+      1974,
+      1978,
+      1982
+    ]
+  },
+  {
+    "name": "Careca",
+    "team": "Brazil",
+    "goals": 7,
+    "tournaments": [
+      1986,
+      1990
+    ]
+  },
+  {
+    "name": "Hans Sch\u00e4fer",
+    "team": "Germany",
+    "goals": 7,
+    "tournaments": [
+      1954,
+      1958
+    ]
+  },
+  {
+    "name": "Johnny Rep",
+    "team": "Netherlands",
+    "goals": 7,
+    "tournaments": [
+      1974,
+      1978
+    ]
+  },
+  {
+    "name": "Lajos Tichy",
+    "team": "Hungary",
+    "goals": 7,
+    "tournaments": [
+      1958,
+      1962
+    ]
+  },
+  {
+    "name": "Luis Su\u00e1rez",
+    "team": "Uruguay",
+    "goals": 7,
+    "tournaments": [
+      2010,
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Old\u0159ich Nejedl\u00fd",
+    "team": "Czechia",
+    "goals": 7,
+    "tournaments": [
+      1934,
+      1938
+    ]
+  },
+  {
+    "name": "Arjen Robben",
+    "team": "Netherlands",
+    "goals": 6,
+    "tournaments": [
+      2006,
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Asamoah Gyan",
+    "team": "Ghana",
+    "goals": 6,
+    "tournaments": [
+      2006,
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Bebeto",
+    "team": "Brazil",
+    "goals": 6,
+    "tournaments": [
+      1994,
+      1998
+    ]
+  },
+  {
+    "name": "Davor \u0160uker",
+    "team": "Croatia",
+    "goals": 6,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Dennis Bergkamp",
+    "team": "Netherlands",
+    "goals": 6,
+    "tournaments": [
+      1994,
+      1998
+    ]
+  },
+  {
+    "name": "Diego Forl\u00e1n",
+    "team": "Uruguay",
+    "goals": 6,
+    "tournaments": [
+      2002,
+      2010
+    ]
+  },
+  {
+    "name": "Enner Valencia",
+    "team": "Ecuador",
+    "goals": 6,
+    "tournaments": [
+      2014,
+      2022
+    ]
+  },
+  {
+    "name": "Erich Probst",
+    "team": "Austria",
+    "goals": 6,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Gy\u00f6rgy S\u00e1rosi",
+    "team": "Hungary",
+    "goals": 6,
+    "tournaments": [
+      1934,
+      1938
+    ]
+  },
+  {
+    "name": "Helmut Haller",
+    "team": "West Germany",
+    "goals": 6,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Hristo Stoichkov",
+    "team": "Bulgaria",
+    "goals": 6,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Ivan Peri\u0161i\u0107",
+    "team": "Croatia",
+    "goals": 6,
+    "tournaments": [
+      2014,
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "James Rodr\u00edguez",
+    "team": "Colombia",
+    "goals": 6,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Josef H\u00fcgi",
+    "team": "Switzerland",
+    "goals": 6,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Lothar Matth\u00e4us",
+    "team": "West Germany",
+    "goals": 6,
+    "tournaments": [
+      1986,
+      1990,
+      1994
+    ]
+  },
+  {
+    "name": "Mario Kempes",
+    "team": "Argentina",
+    "goals": 6,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Max Morlock",
+    "team": "Germany",
+    "goals": 6,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Oleg Salenko",
+    "team": "Russia",
+    "goals": 6,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Rivellino",
+    "team": "Brazil",
+    "goals": 6,
+    "tournaments": [
+      1970,
+      1974
+    ]
+  },
+  {
+    "name": "Rob Rensenbrink",
+    "team": "Netherlands",
+    "goals": 6,
+    "tournaments": [
+      1974,
+      1978
+    ]
+  },
+  {
+    "name": "Robin van Persie",
+    "team": "Netherlands",
+    "goals": 6,
+    "tournaments": [
+      2006,
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Salvatore Schillaci",
+    "team": "Italy",
+    "goals": 6,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Thierry Henry",
+    "team": "France",
+    "goals": 6,
+    "tournaments": [
+      1998,
+      2006
+    ]
+  },
+  {
+    "name": "Wesley Sneijder",
+    "team": "Netherlands",
+    "goals": 6,
+    "tournaments": [
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Zbigniew Boniek",
+    "team": "Poland",
+    "goals": 6,
+    "tournaments": [
+      1978,
+      1982
+    ]
+  },
+  {
+    "name": "Alessandro Altobelli",
+    "team": "Italy",
+    "goals": 5,
+    "tournaments": [
+      1982,
+      1986
+    ]
+  },
+  {
+    "name": "Edinson Cavani",
+    "team": "Uruguay",
+    "goals": 5,
+    "tournaments": [
+      2010,
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Emilio Butrague\u00f1o",
+    "team": "Spain",
+    "goals": 5,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Fernando Hierro",
+    "team": "Spain",
+    "goals": 5,
+    "tournaments": [
+      1994,
+      1998,
+      2002
+    ]
+  },
+  {
+    "name": "Fernando Morientes",
+    "team": "Spain",
+    "goals": 5,
+    "tournaments": [
+      1998,
+      2002
+    ]
+  },
+  {
+    "name": "Franz Beckenbauer",
+    "team": "West Germany",
+    "goals": 5,
+    "tournaments": [
+      1966,
+      1970
+    ]
+  },
+  {
+    "name": "Garrincha",
+    "team": "Brazil",
+    "goals": 5,
+    "tournaments": [
+      1962,
+      1966
+    ]
+  },
+  {
+    "name": "Geoff Hurst",
+    "team": "England",
+    "goals": 5,
+    "tournaments": [
+      1966,
+      1970
+    ]
+  },
+  {
+    "name": "Gonzalo Higua\u00edn",
+    "team": "Argentina",
+    "goals": 5,
+    "tournaments": [
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Gyula Zsengell\u00e9r",
+    "team": "Hungary",
+    "goals": 5,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Hans Krankl",
+    "team": "Austria",
+    "goals": 5,
+    "tournaments": [
+      1978,
+      1982
+    ]
+  },
+  {
+    "name": "Henrik Larsson",
+    "team": "Sweden",
+    "goals": 5,
+    "tournaments": [
+      1994,
+      2002,
+      2006
+    ]
+  },
+  {
+    "name": "Johan Neeskens",
+    "team": "Netherlands",
+    "goals": 5,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Jon Dahl Tomasson",
+    "team": "Denmark",
+    "goals": 5,
+    "tournaments": [
+      2002,
+      2010
+    ]
+  },
+  {
+    "name": "Juan Alberto Schiaffino",
+    "team": "Uruguay",
+    "goals": 5,
+    "tournaments": [
+      1950,
+      1954
+    ]
+  },
+  {
+    "name": "Kennet Andersson",
+    "team": "Sweden",
+    "goals": 5,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Landon Donovan",
+    "team": "United States",
+    "goals": 5,
+    "tournaments": [
+      2002,
+      2010
+    ]
+  },
+  {
+    "name": "Lukas Podolski",
+    "team": "Germany",
+    "goals": 5,
+    "tournaments": [
+      2006,
+      2010
+    ]
+  },
+  {
+    "name": "Marc Wilmots",
+    "team": "Belgium",
+    "goals": 5,
+    "tournaments": [
+      1998,
+      2002
+    ]
+  },
+  {
+    "name": "Mario Mand\u017euki\u0107",
+    "team": "Croatia",
+    "goals": 5,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Michel Platini",
+    "team": "France",
+    "goals": 5,
+    "tournaments": [
+      1978,
+      1982,
+      1986
+    ]
+  },
+  {
+    "name": "Olivier Giroud",
+    "team": "France",
+    "goals": 5,
+    "tournaments": [
+      2014,
+      2022
+    ]
+  },
+  {
+    "name": "Pedro Cea",
+    "team": "Uruguay",
+    "goals": 5,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Peter McParland",
+    "team": "Northern Ireland",
+    "goals": 5,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Ra\u00fal",
+    "team": "Spain",
+    "goals": 5,
+    "tournaments": [
+      1998,
+      2002,
+      2006
+    ]
+  },
+  {
+    "name": "Roger Milla",
+    "team": "Cameroon",
+    "goals": 5,
+    "tournaments": [
+      1990,
+      1994
+    ]
+  },
+  {
+    "name": "Romelu Lukaku",
+    "team": "Belgium",
+    "goals": 5,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Rom\u00e1rio",
+    "team": "Brazil",
+    "goals": 5,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Silvio Piola",
+    "team": "Italy",
+    "goals": 5,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Tim Cahill",
+    "team": "Australia",
+    "goals": 5,
+    "tournaments": [
+      2006,
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Tom\u00e1\u0161 Skuhrav\u00fd",
+    "team": "Czechia",
+    "goals": 5,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Valentin Kozmich Ivanov",
+    "team": "Soviet Union",
+    "goals": 5,
+    "tournaments": [
+      1958,
+      1962
+    ]
+  },
+  {
+    "name": "Xherdan Shaqiri",
+    "team": "Switzerland",
+    "goals": 5,
+    "tournaments": [
+      2014,
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "Zico",
+    "team": "Brazil",
+    "goals": 5,
+    "tournaments": [
+      1978,
+      1982
+    ]
+  },
+  {
+    "name": "Zin\u00e9dine Zidane",
+    "team": "France",
+    "goals": 5,
+    "tournaments": [
+      1998,
+      2006
+    ]
+  },
+  {
+    "name": "Agne Simonsson",
+    "team": "Sweden",
+    "goals": 4,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Ahmed Musa",
+    "team": "Nigeria",
+    "goals": 4,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Alcides Ghiggia",
+    "team": "Uruguay",
+    "goals": 4,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Anatoliy Byshovets",
+    "team": "Soviet Union",
+    "goals": 4,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Andreas Brehme",
+    "team": "West Germany",
+    "goals": 4,
+    "tournaments": [
+      1986,
+      1990
+    ]
+  },
+  {
+    "name": "Andr\u00e9 Abegglen",
+    "team": "Switzerland",
+    "goals": 4,
+    "tournaments": [
+      1934,
+      1938
+    ]
+  },
+  {
+    "name": "Angelo Schiavio",
+    "team": "Italy",
+    "goals": 4,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Antoine Griezmann",
+    "team": "France",
+    "goals": 4,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Bert Patenaude",
+    "team": "United States",
+    "goals": 4,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Bobby Charlton",
+    "team": "England",
+    "goals": 4,
+    "tournaments": [
+      1962,
+      1966
+    ]
+  },
+  {
+    "name": "Carlos Borges",
+    "team": "Uruguay",
+    "goals": 4,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Claudio Caniggia",
+    "team": "Argentina",
+    "goals": 4,
+    "tournaments": [
+      1990,
+      1994
+    ]
+  },
+  {
+    "name": "Clint Dempsey",
+    "team": "United States",
+    "goals": 4,
+    "tournaments": [
+      2006,
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Daniel Bertoni",
+    "team": "Argentina",
+    "goals": 4,
+    "tournaments": [
+      1978,
+      1982
+    ]
+  },
+  {
+    "name": "Denis Cheryshev",
+    "team": "Russia",
+    "goals": 4,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Dominique Rocheteau",
+    "team": "France",
+    "goals": 4,
+    "tournaments": [
+      1978,
+      1982,
+      1986
+    ]
+  },
+  {
+    "name": "Dra\u017ean Jerkovi\u0107",
+    "team": "Yugoslavia",
+    "goals": 4,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Edmund Conen",
+    "team": "Germany",
+    "goals": 4,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Ernst Wilimowski",
+    "team": "Poland",
+    "goals": 4,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Estanislau Basora",
+    "team": "Spain",
+    "goals": 4,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Ferenc Bene",
+    "team": "Hungary",
+    "goals": 4,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Ferenc Pusk\u00e1s",
+    "team": "Hungary",
+    "goals": 4,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Fernando Torres",
+    "team": "Spain",
+    "goals": 4,
+    "tournaments": [
+      2006,
+      2014
+    ]
+  },
+  {
+    "name": "Florin R\u0103ducioiu",
+    "team": "Romania",
+    "goals": 4,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Fl\u00f3ri\u00e1n Albert",
+    "team": "Hungary",
+    "goals": 4,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Francisco Aramburu",
+    "team": "Brazil",
+    "goals": 4,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Gino Colaussi",
+    "team": "Italy",
+    "goals": 4,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Hern\u00e1n Crespo",
+    "team": "Argentina",
+    "goals": 4,
+    "tournaments": [
+      2002,
+      2006
+    ]
+  },
+  {
+    "name": "Igor Belanov",
+    "team": "Soviet Union",
+    "goals": 4,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Igor Chislenko",
+    "team": "Soviet Union",
+    "goals": 4,
+    "tournaments": [
+      1962,
+      1966
+    ]
+  },
+  {
+    "name": "Jan Ceulemans",
+    "team": "Belgium",
+    "goals": 4,
+    "tournaments": [
+      1986,
+      1990
+    ]
+  },
+  {
+    "name": "Javier Hern\u00e1ndez",
+    "team": "Mexico",
+    "goals": 4,
+    "tournaments": [
+      2010,
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Joe Jordan",
+    "team": "Scotland",
+    "goals": 4,
+    "tournaments": [
+      1974,
+      1978,
+      1982
+    ]
+  },
+  {
+    "name": "Jorge Valdano",
+    "team": "Argentina",
+    "goals": 4,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Juli\u00e1n \u00c1lvarez",
+    "team": "Argentina",
+    "goals": 4,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Kazimierz Deyna",
+    "team": "Poland",
+    "goals": 4,
+    "tournaments": [
+      1974,
+      1978
+    ]
+  },
+  {
+    "name": "Keisuke Honda",
+    "team": "Japan",
+    "goals": 4,
+    "tournaments": [
+      2010,
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Kurt Hamrin",
+    "team": "Sweden",
+    "goals": 4,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Leonel S\u00e1nchez",
+    "team": "Chile",
+    "goals": 4,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Leopoldo Luque",
+    "team": "Argentina",
+    "goals": 4,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Marcelo Salas",
+    "team": "Chile",
+    "goals": 4,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Martin Dahlin",
+    "team": "Sweden",
+    "goals": 4,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Michael Owen",
+    "team": "England",
+    "goals": 4,
+    "tournaments": [
+      1998,
+      2002
+    ]
+  },
+  {
+    "name": "M\u00edchel",
+    "team": "Spain",
+    "goals": 4,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "N\u00e1ndor Hidegkuti",
+    "team": "Hungary",
+    "goals": 4,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Oliver Bierhoff",
+    "team": "Germany",
+    "goals": 4,
+    "tournaments": [
+      1998,
+      2002
+    ]
+  },
+  {
+    "name": "Ottmar Walter",
+    "team": "Germany",
+    "goals": 4,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Paul Breitner",
+    "team": "West Germany",
+    "goals": 4,
+    "tournaments": [
+      1974,
+      1982
+    ]
+  },
+  {
+    "name": "Pauleta",
+    "team": "Portugal",
+    "goals": 4,
+    "tournaments": [
+      2002,
+      2006
+    ]
+  },
+  {
+    "name": "Preben Elkj\u00e6r",
+    "team": "Denmark",
+    "goals": 4,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Ralf Edstr\u00f6m",
+    "team": "Sweden",
+    "goals": 4,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Raymond Kopa",
+    "team": "France",
+    "goals": 4,
+    "tournaments": [
+      1954,
+      1958
+    ]
+  },
+  {
+    "name": "Ren\u00e9 Houseman",
+    "team": "Argentina",
+    "goals": 4,
+    "tournaments": [
+      1974,
+      1978
+    ]
+  },
+  {
+    "name": "Robert Ballaman",
+    "team": "Switzerland",
+    "goals": 4,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "R\u00f3bert Vittek",
+    "team": "Slovakia",
+    "goals": 4,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "S\u00f3crates",
+    "team": "Brazil",
+    "goals": 4,
+    "tournaments": [
+      1982,
+      1986
+    ]
+  },
+  {
+    "name": "Telmo Zarra",
+    "team": "Spain",
+    "goals": 4,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Tomas Brolin",
+    "team": "Sweden",
+    "goals": 4,
+    "tournaments": [
+      1990,
+      1994
+    ]
+  },
+  {
+    "name": "Valeriy Porkujan",
+    "team": "Soviet Union",
+    "goals": 4,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Zden\u011bk Zik\u00e1n",
+    "team": "Czechia",
+    "goals": 4,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Adolf Scherer",
+    "team": "Czechia",
+    "goals": 3,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Agust\u00edn Delgado",
+    "team": "Ecuador",
+    "goals": 3,
+    "tournaments": [
+      2002,
+      2006
+    ]
+  },
+  {
+    "name": "Ahn Jung-hwan",
+    "team": "Korea Republic",
+    "goals": 3,
+    "tournaments": [
+      2002,
+      2006
+    ]
+  },
+  {
+    "name": "Alain Giresse",
+    "team": "France",
+    "goals": 3,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Aleksandar Mitrovi\u0107",
+    "team": "Serbia",
+    "goals": 3,
+    "tournaments": [
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "Alfred K\u00f6rner",
+    "team": "Austria",
+    "goals": 3,
+    "tournaments": [
+      1954,
+      1958
+    ]
+  },
+  {
+    "name": "Amarildo Tavares da Silveira",
+    "team": "Brazil",
+    "goals": 3,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Andrej Kramari\u0107",
+    "team": "Croatia",
+    "goals": 3,
+    "tournaments": [
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "Andr\u00e9 Ayew",
+    "team": "Ghana",
+    "goals": 3,
+    "tournaments": [
+      2014,
+      2022
+    ]
+  },
+  {
+    "name": "Andr\u00e9 Sch\u00fcrrle",
+    "team": "Germany",
+    "goals": 3,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Arne Nyberg",
+    "team": "Sweden",
+    "goals": 3,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Artem Dzyuba",
+    "team": "Russia",
+    "goals": 3,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Baltazar",
+    "team": "Brazil",
+    "goals": 3,
+    "tournaments": [
+      1950,
+      1954
+    ]
+  },
+  {
+    "name": "Bernard Genghini",
+    "team": "France",
+    "goals": 3,
+    "tournaments": [
+      1982,
+      1986
+    ]
+  },
+  {
+    "name": "Brian McBride",
+    "team": "United States",
+    "goals": 3,
+    "tournaments": [
+      1998,
+      2002
+    ]
+  },
+  {
+    "name": "Bukayo Saka",
+    "team": "England",
+    "goals": 3,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Burhan Sargun",
+    "team": "T\u00fcrkiye",
+    "goals": 3,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Carlos Peucelle",
+    "team": "Argentina",
+    "goals": 3,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Carlos Tevez",
+    "team": "Argentina",
+    "goals": 3,
+    "tournaments": [
+      2006,
+      2010
+    ]
+  },
+  {
+    "name": "Cody Gakpo",
+    "team": "Netherlands",
+    "goals": 3,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "C\u00e9sar Sampaio",
+    "team": "Brazil",
+    "goals": 3,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Daniel Passarella",
+    "team": "Argentina",
+    "goals": 3,
+    "tournaments": [
+      1978,
+      1982
+    ]
+  },
+  {
+    "name": "David Beckham",
+    "team": "England",
+    "goals": 3,
+    "tournaments": [
+      1998,
+      2002,
+      2006
+    ]
+  },
+  {
+    "name": "David Platt",
+    "team": "England",
+    "goals": 3,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Didi",
+    "team": "Brazil",
+    "goals": 3,
+    "tournaments": [
+      1954,
+      1958
+    ]
+  },
+  {
+    "name": "Diego Costa",
+    "team": "Spain",
+    "goals": 3,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Dirceu",
+    "team": "Brazil",
+    "goals": 3,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Dragan Stojkovi\u0107",
+    "team": "Yugoslavia",
+    "goals": 3,
+    "tournaments": [
+      1990,
+      1998
+    ]
+  },
+  {
+    "name": "Du\u0161an Bajevi\u0107",
+    "team": "Yugoslavia",
+    "goals": 3,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Eden Hazard",
+    "team": "Belgium",
+    "goals": 3,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Eduard Malofeyev",
+    "team": "Soviet Union",
+    "goals": 3,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Enzo Scifo",
+    "team": "Belgium",
+    "goals": 3,
+    "tournaments": [
+      1986,
+      1990
+    ]
+  },
+  {
+    "name": "Ernst Stojaspal",
+    "team": "Austria",
+    "goals": 3,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Fritz Walter",
+    "team": "Germany",
+    "goals": 3,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Gerry Armstrong",
+    "team": "Northern Ireland",
+    "goals": 3,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Gheorghe Hagi",
+    "team": "Romania",
+    "goals": 3,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Gianni Rivera",
+    "team": "Italy",
+    "goals": 3,
+    "tournaments": [
+      1970,
+      1974
+    ]
+  },
+  {
+    "name": "Giuseppe Meazza",
+    "team": "Italy",
+    "goals": 3,
+    "tournaments": [
+      1934,
+      1938
+    ]
+  },
+  {
+    "name": "Gon\u00e7alo Ramos",
+    "team": "Portugal",
+    "goals": 3,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Gustav Wetterstr\u00f6m",
+    "team": "Sweden",
+    "goals": 3,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "G\u00e9za Toldi",
+    "team": "Hungary",
+    "goals": 3,
+    "tournaments": [
+      1934,
+      1938
+    ]
+  },
+  {
+    "name": "Harry Andersson",
+    "team": "Sweden",
+    "goals": 3,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "H\u00e9ctor Socorro",
+    "team": "Cuba",
+    "goals": 3,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Ivan Bek",
+    "team": "Yugoslavia",
+    "goals": 3,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Jacques Fatton",
+    "team": "Switzerland",
+    "goals": 3,
+    "tournaments": [
+      1950,
+      1954
+    ]
+  },
+  {
+    "name": "Jean Nicolas",
+    "team": "France",
+    "goals": 3,
+    "tournaments": [
+      1934,
+      1938
+    ]
+  },
+  {
+    "name": "Jesper Olsen",
+    "team": "Denmark",
+    "goals": 3,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Johan Cruyff",
+    "team": "Netherlands",
+    "goals": 3,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Jorge Burruchaga",
+    "team": "Argentina",
+    "goals": 3,
+    "tournaments": [
+      1986,
+      1990
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Augusto Torres",
+    "team": "Portugal",
+    "goals": 3,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Augusto de Almeida",
+    "team": "Portugal",
+    "goals": 3,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Luis Caminero",
+    "team": "Spain",
+    "goals": 3,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Per\u00e1cio",
+    "team": "Brazil",
+    "goals": 3,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Juan Hohberg",
+    "team": "Uruguay",
+    "goals": 3,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Julio Salinas",
+    "team": "Spain",
+    "goals": 3,
+    "tournaments": [
+      1986,
+      1990,
+      1994
+    ]
+  },
+  {
+    "name": "Karim Benzema",
+    "team": "France",
+    "goals": 3,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Karl-Erik Palm\u00e9r",
+    "team": "Sweden",
+    "goals": 3,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Leopold Kielholz",
+    "team": "Switzerland",
+    "goals": 3,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Luigi Riva",
+    "team": "Italy",
+    "goals": 3,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Luis Artime",
+    "team": "Argentina",
+    "goals": 3,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Luis Hern\u00e1ndez",
+    "team": "Mexico",
+    "goals": 3,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Lu\u00eds Fabiano",
+    "team": "Brazil",
+    "goals": 3,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "L\u00e1szl\u00f3 Kiss",
+    "team": "Hungary",
+    "goals": 3,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "L\u00e9opold Anoul",
+    "team": "Belgium",
+    "goals": 3,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Marcus Rashford",
+    "team": "England",
+    "goals": 3,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Memphis",
+    "team": "Netherlands",
+    "goals": 3,
+    "tournaments": [
+      2014,
+      2022
+    ]
+  },
+  {
+    "name": "Michael Ballack",
+    "team": "Germany",
+    "goals": 3,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Milan Gali\u0107",
+    "team": "Yugoslavia",
+    "goals": 3,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Mile Jedinak",
+    "team": "Australia",
+    "goals": 3,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Nat Lofthouse",
+    "team": "England",
+    "goals": 3,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Nelson Cuevas",
+    "team": "Paraguay",
+    "goals": 3,
+    "tournaments": [
+      2002,
+      2006
+    ]
+  },
+  {
+    "name": "Nico Claesen",
+    "team": "Belgium",
+    "goals": 3,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Oreste Corbatta",
+    "team": "Argentina",
+    "goals": 3,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Oscar",
+    "team": "Brazil",
+    "goals": 3,
+    "tournaments": [
+      1982,
+      2014
+    ]
+  },
+  {
+    "name": "Park Ji-sung",
+    "team": "Korea Republic",
+    "goals": 3,
+    "tournaments": [
+      2002,
+      2006,
+      2010
+    ]
+  },
+  {
+    "name": "Paulo Roberto Falc\u00e3o",
+    "team": "Brazil",
+    "goals": 3,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Paulo Wanchope",
+    "team": "Costa Rica",
+    "goals": 3,
+    "tournaments": [
+      2002,
+      2006
+    ]
+  },
+  {
+    "name": "Peregrino Anselmo",
+    "team": "Uruguay",
+    "goals": 3,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Pierre Littbarski",
+    "team": "West Germany",
+    "goals": 3,
+    "tournaments": [
+      1982,
+      1990
+    ]
+  },
+  {
+    "name": "Preguinho",
+    "team": "Brazil",
+    "goals": 3,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Rafael M\u00e1rquez",
+    "team": "Mexico",
+    "goals": 3,
+    "tournaments": [
+      2006,
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Raimundo Orsi",
+    "team": "Italy",
+    "goals": 3,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Richarlison",
+    "team": "Brazil",
+    "goals": 3,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Robbie Keane",
+    "team": "Republic of Ireland",
+    "goals": 3,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Robert Prosine\u010dki",
+    "team": "Croatia",
+    "goals": 3,
+    "tournaments": [
+      1990,
+      1998
+    ]
+  },
+  {
+    "name": "Roberto Dinamite",
+    "team": "Brazil",
+    "goals": 3,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Roger Hunt",
+    "team": "England",
+    "goals": 3,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Roger Piantoni",
+    "team": "France",
+    "goals": 3,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Romeu Pellicciari",
+    "team": "Brazil",
+    "goals": 3,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "R\u00f3nald G\u00f3mez",
+    "team": "Costa Rica",
+    "goals": 3,
+    "tournaments": [
+      2002,
+      2006
+    ]
+  },
+  {
+    "name": "Salem Al-Dawsari",
+    "team": "Saudi Arabia",
+    "goals": 3,
+    "tournaments": [
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "Sami Al-Jaber",
+    "team": "Saudi Arabia",
+    "goals": 3,
+    "tournaments": [
+      1994,
+      1998,
+      2006
+    ]
+  },
+  {
+    "name": "Samuel Eto'o",
+    "team": "Cameroon",
+    "goals": 3,
+    "tournaments": [
+      2002,
+      2010
+    ]
+  },
+  {
+    "name": "Son Heung-min",
+    "team": "Korea Republic",
+    "goals": 3,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Steven Gerrard",
+    "team": "England",
+    "goals": 3,
+    "tournaments": [
+      2006,
+      2010
+    ]
+  },
+  {
+    "name": "Stig Sundqvist",
+    "team": "Sweden",
+    "goals": 3,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Suat Mamat",
+    "team": "T\u00fcrkiye",
+    "goals": 3,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Sven Jonasson",
+    "team": "Sweden",
+    "goals": 3,
+    "tournaments": [
+      1934,
+      1938
+    ]
+  },
+  {
+    "name": "Theodor Wagner",
+    "team": "Austria",
+    "goals": 3,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Todor Veselinovi\u0107",
+    "team": "Yugoslavia",
+    "goals": 3,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Toni Kroos",
+    "team": "Germany",
+    "goals": 3,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Tost\u00e3o",
+    "team": "Brazil",
+    "goals": 3,
+    "tournaments": [
+      1966,
+      1970
+    ]
+  },
+  {
+    "name": "Wahbi Khazri",
+    "team": "Tunisia",
+    "goals": 3,
+    "tournaments": [
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "Walter Schachner",
+    "team": "Austria",
+    "goals": 3,
+    "tournaments": [
+      1978,
+      1982
+    ]
+  },
+  {
+    "name": "Wolfgang Overath",
+    "team": "West Germany",
+    "goals": 3,
+    "tournaments": [
+      1970,
+      1974
+    ]
+  },
+  {
+    "name": "Yerry Mina",
+    "team": "Colombia",
+    "goals": 3,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Youssef En-Nesyri",
+    "team": "Morocco",
+    "goals": 3,
+    "tournaments": [
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "Zolt\u00e1n Czibor",
+    "team": "Hungary",
+    "goals": 3,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "\u00c1lvaro Morata",
+    "team": "Spain",
+    "goals": 3,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "\u00c1ngel Di Mar\u00eda",
+    "team": "Argentina",
+    "goals": 3,
+    "tournaments": [
+      2014,
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "\u0130lhan Mans\u0131z",
+    "team": "T\u00fcrkiye",
+    "goals": 3,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "\u0218tefan Dobay",
+    "team": "Romania",
+    "goals": 3,
+    "tournaments": [
+      1934,
+      1938
+    ]
+  },
+  {
+    "name": "Abdeljalil Hadda",
+    "team": "Morocco",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Abdelmoumene Djabou",
+    "team": "Algeria",
+    "goals": 2,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Abderrazak Khairi",
+    "team": "Morocco",
+    "goals": 2,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Abdulrahman Fawzi",
+    "team": "Egypt",
+    "goals": 2,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Adolfo Valencia",
+    "team": "Colombia",
+    "goals": 2,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Adolfo Zumelz\u00fa",
+    "team": "Argentina",
+    "goals": 2,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Adrian Knup",
+    "team": "Switzerland",
+    "goals": 2,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Adriano",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Alan Shearer",
+    "team": "England",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Alberto Gallardo",
+    "team": "Peru",
+    "goals": 2,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Alberto Garc\u00eda Aspe",
+    "team": "Mexico",
+    "goals": 2,
+    "tournaments": [
+      1994,
+      1998
+    ]
+  },
+  {
+    "name": "Aleksandar Petakovi\u0107",
+    "team": "Yugoslavia",
+    "goals": 2,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Alessandro Del Piero",
+    "team": "Italy",
+    "goals": 2,
+    "tournaments": [
+      2002,
+      2006
+    ]
+  },
+  {
+    "name": "Alexander Frei",
+    "team": "Switzerland",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Alexis S\u00e1nchez",
+    "team": "Chile",
+    "goals": 2,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Anatoli Ilyin",
+    "team": "Soviet Union",
+    "goals": 2,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Andreas Granqvist",
+    "team": "Sweden",
+    "goals": 2,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Andriy Shevchenko",
+    "team": "Ukraine",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Andr\u00e9 Maschinot",
+    "team": "France",
+    "goals": 2,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Andr\u00e9s Iniesta",
+    "team": "Spain",
+    "goals": 2,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Anton\u00edn Panenka",
+    "team": "Czechia",
+    "goals": 2,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Anton\u00edn Pu\u010d",
+    "team": "Czechia",
+    "goals": 2,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Archie Gemmill",
+    "team": "Scotland",
+    "goals": 2,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Arie Haan",
+    "team": "Netherlands",
+    "goals": 2,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Ariel Ortega",
+    "team": "Argentina",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Aruna Dindane",
+    "team": "C\u00f4te d'Ivoire",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Atilio Cremaschi",
+    "team": "Chile",
+    "goals": 2,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Bartosz Bosacki",
+    "team": "Poland",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Bastian Schweinsteiger",
+    "team": "Germany",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Benni McCarthy",
+    "team": "South Africa",
+    "goals": 2,
+    "tournaments": [
+      1998,
+      2002
+    ]
+  },
+  {
+    "name": "Bernard Voorhoof",
+    "team": "Belgium",
+    "goals": 2,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Bernardo Red\u00edn",
+    "team": "Colombia",
+    "goals": 2,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Billy Hamilton",
+    "team": "Northern Ireland",
+    "goals": 2,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Blerim D\u017eemaili",
+    "team": "Switzerland",
+    "goals": 2,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Breel Embolo",
+    "team": "Switzerland",
+    "goals": 2,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Brett Holman",
+    "team": "Australia",
+    "goals": 2,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Brian Laudrup",
+    "team": "Denmark",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Bruno Fernandes",
+    "team": "Portugal",
+    "goals": 2,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Bryan Robson",
+    "team": "England",
+    "goals": 2,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Bryan Ruiz",
+    "team": "Costa Rica",
+    "goals": 2,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Carlos Tenorio",
+    "team": "Ecuador",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Carlos Vidal",
+    "team": "Chile",
+    "goals": 2,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Cho Guesung",
+    "team": "Korea Republic",
+    "goals": 2,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Cuauht\u00e9moc Blanco",
+    "team": "Mexico",
+    "goals": 2,
+    "tournaments": [
+      2002,
+      2010
+    ]
+  },
+  {
+    "name": "Daley Blind",
+    "team": "Netherlands",
+    "goals": 2,
+    "tournaments": [
+      2014,
+      2022
+    ]
+  },
+  {
+    "name": "Dan Petrescu",
+    "team": "Romania",
+    "goals": 2,
+    "tournaments": [
+      1994,
+      1998
+    ]
+  },
+  {
+    "name": "Daniel Amokachi",
+    "team": "Nigeria",
+    "goals": 2,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Darko Pan\u010dev",
+    "team": "Yugoslavia",
+    "goals": 2,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "David Luiz",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Davor Jozi\u0107",
+    "team": "Yugoslavia",
+    "goals": 2,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Dennis Rommedahl",
+    "team": "Denmark",
+    "goals": 2,
+    "tournaments": [
+      2002,
+      2010
+    ]
+  },
+  {
+    "name": "Derek Kevan",
+    "team": "England",
+    "goals": 2,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Didier Drogba",
+    "team": "C\u00f4te d'Ivoire",
+    "goals": 2,
+    "tournaments": [
+      2006,
+      2010
+    ]
+  },
+  {
+    "name": "Didier Six",
+    "team": "France",
+    "goals": 2,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Dieter M\u00fcller",
+    "team": "West Germany",
+    "goals": 2,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Dino Baggio",
+    "team": "Italy",
+    "goals": 2,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Dries Mertens",
+    "team": "Belgium",
+    "goals": 2,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Egisto Pandolfini",
+    "team": "Italy",
+    "goals": 2,
+    "tournaments": [
+      1950,
+      1954
+    ]
+  },
+  {
+    "name": "Eladio Rojas",
+    "team": "Chile",
+    "goals": 2,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Elano",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Emmanuel Amunike",
+    "team": "Nigeria",
+    "goals": 2,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Emmanuel Petit",
+    "team": "France",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Emmanuel Sanon",
+    "team": "Haiti",
+    "goals": 2,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Ernie Brandts",
+    "team": "Netherlands",
+    "goals": 2,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Ernst Lehner",
+    "team": "Germany",
+    "goals": 2,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Ernst Ocwirk",
+    "team": "Austria",
+    "goals": 2,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Erwin Vandenbergh",
+    "team": "Belgium",
+    "goals": 2,
+    "tournaments": [
+      1982,
+      1986
+    ]
+  },
+  {
+    "name": "Fernando Quirarte",
+    "team": "Mexico",
+    "goals": 2,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Ferr\u00e1n Torres",
+    "team": "Spain",
+    "goals": 2,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Florea Dumitrache",
+    "team": "Romania",
+    "goals": 2,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Florencio Amarilla",
+    "team": "Paraguay",
+    "goals": 2,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Fran\u00e7ois Omam-Biyik",
+    "team": "Cameroon",
+    "goals": 2,
+    "tournaments": [
+      1990,
+      1994
+    ]
+  },
+  {
+    "name": "Fred",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      2006,
+      2014
+    ]
+  },
+  {
+    "name": "Fuad Anwar",
+    "team": "Saudi Arabia",
+    "goals": 2,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Gabi Balint",
+    "team": "Romania",
+    "goals": 2,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Gervinho",
+    "team": "C\u00f4te d'Ivoire",
+    "goals": 2,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Giacomo Bulgarelli",
+    "team": "Italy",
+    "goals": 2,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Giorgian De Arrascaeta",
+    "team": "Uruguay",
+    "goals": 2,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Giovanni Ferrari",
+    "team": "Italy",
+    "goals": 2,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Granit Xhaka",
+    "team": "Switzerland",
+    "goals": 2,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Guillermo Subiabre",
+    "team": "Chile",
+    "goals": 2,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "G\u00e1bor P\u00f6l\u00f6skei",
+    "team": "Hungary",
+    "goals": 2,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Hasan \u015ea\u015f",
+    "team": "T\u00fcrkiye",
+    "goals": 2,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Hasse Jeppson",
+    "team": "Sweden",
+    "goals": 2,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Heinz Flohe",
+    "team": "West Germany",
+    "goals": 2,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Henri Camara",
+    "team": "Senegal",
+    "goals": 2,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Hong Myung-bo",
+    "team": "Korea Republic",
+    "goals": 2,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Hristo Bonev",
+    "team": "Bulgaria",
+    "goals": 2,
+    "tournaments": [
+      1970,
+      1974
+    ]
+  },
+  {
+    "name": "Hwang Sun-hong",
+    "team": "Korea Republic",
+    "goals": 2,
+    "tournaments": [
+      1994,
+      2002
+    ]
+  },
+  {
+    "name": "H\u00e9ctor Castro",
+    "team": "Uruguay",
+    "goals": 2,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "H\u00e9ctor Yazalde",
+    "team": "Argentina",
+    "goals": 2,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Ilie Dumitrescu",
+    "team": "Romania",
+    "goals": 2,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Ion Andoni Goikoetxea",
+    "team": "Spain",
+    "goals": 2,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Islam Slimani",
+    "team": "Algeria",
+    "goals": 2,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Ivica Oli\u0107",
+    "team": "Croatia",
+    "goals": 2,
+    "tournaments": [
+      2002,
+      2014
+    ]
+  },
+  {
+    "name": "Ivica \u0160urjak",
+    "team": "Yugoslavia",
+    "goals": 2,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Ivor Allchurch",
+    "team": "Wales",
+    "goals": 2,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Ivor Broadis",
+    "team": "England",
+    "goals": 2,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Jackson Mart\u00ednez",
+    "team": "Colombia",
+    "goals": 2,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Jaime Ram\u00edrez",
+    "team": "Chile",
+    "goals": 2,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Jair da Rosa Pinto",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Jan Vertonghen",
+    "team": "Belgium",
+    "goals": 2,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Jared Borgetti",
+    "team": "Mexico",
+    "goals": 2,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Javier Valdivia",
+    "team": "Mexico",
+    "goals": 2,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Jean Beausejour",
+    "team": "Chile",
+    "goals": 2,
+    "tournaments": [
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Jean Vincent",
+    "team": "France",
+    "goals": 2,
+    "tournaments": [
+      1954,
+      1958
+    ]
+  },
+  {
+    "name": "Jean-Pierre Papin",
+    "team": "France",
+    "goals": 2,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Joachim Streich",
+    "team": "Germany DR",
+    "goals": 2,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Johann Horvath",
+    "team": "Austria",
+    "goals": 2,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "John Stones",
+    "team": "England",
+    "goals": 2,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "John Wark",
+    "team": "Scotland",
+    "goals": 2,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Jorge Lino Romero",
+    "team": "Paraguay",
+    "goals": 2,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Jorge Toro",
+    "team": "Chile",
+    "goals": 2,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Josimar",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Altafini",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Iraragorri",
+    "team": "Spain",
+    "goals": 2,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Jos\u00e9 L\u00e1zaro Robles",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Parodi",
+    "team": "Paraguay",
+    "goals": 2,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Sas\u00eda",
+    "team": "Uruguay",
+    "goals": 2,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Juan Bautista Ag\u00fcero",
+    "team": "Paraguay",
+    "goals": 2,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Juan Cuadrado",
+    "team": "Colombia",
+    "goals": 2,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Juan Quintero",
+    "team": "Colombia",
+    "goals": 2,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Juanito",
+    "team": "Spain",
+    "goals": 2,
+    "tournaments": [
+      1982,
+      2006
+    ]
+  },
+  {
+    "name": "Julio Abbadie",
+    "team": "Uruguay",
+    "goals": 2,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Julio C\u00e9sar Romero",
+    "team": "Paraguay",
+    "goals": 2,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Junichi Inamoto",
+    "team": "Japan",
+    "goals": 2,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "J\u00f3zsef T\u00f3th",
+    "team": "Hungary",
+    "goals": 2,
+    "tournaments": [
+      1954,
+      1982
+    ]
+  },
+  {
+    "name": "J\u00falio Botelho",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Kai Havertz",
+    "team": "Germany",
+    "goals": 2,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Kalu Uche",
+    "team": "Nigeria",
+    "goals": 2,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Karl Hohmann",
+    "team": "Germany",
+    "goals": 2,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Kenny Dalglish",
+    "team": "Scotland",
+    "goals": 2,
+    "tournaments": [
+      1978,
+      1982
+    ]
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "team": "Belgium",
+    "goals": 2,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Kim Young-gwon",
+    "team": "Korea Republic",
+    "goals": 2,
+    "tournaments": [
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "Kjetil Rekdal",
+    "team": "Norway",
+    "goals": 2,
+    "tournaments": [
+      1994,
+      1998
+    ]
+  },
+  {
+    "name": "Klaas-Jan Huntelaar",
+    "team": "Netherlands",
+    "goals": 2,
+    "tournaments": [
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Klaus Allofs",
+    "team": "West Germany",
+    "goals": 2,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Klaus Fischer",
+    "team": "West Germany",
+    "goals": 2,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Kosta Toma\u0161evi\u0107",
+    "team": "Yugoslavia",
+    "goals": 2,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Kudus Mohammed",
+    "team": "Ghana",
+    "goals": 2,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "K\u00e1lm\u00e1n M\u00e9sz\u00f6ly",
+    "team": "Hungary",
+    "goals": 2,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Ladislav Petr\u00e1\u0161",
+    "team": "Czechia",
+    "goals": 2,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Lee Chung-yong",
+    "team": "Korea Republic",
+    "goals": 2,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Lee Jung-soo",
+    "team": "Korea Republic",
+    "goals": 2,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Lefter K\u00fc\u00e7\u00fckandonyadis",
+    "team": "T\u00fcrkiye",
+    "goals": 2,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Lilian Thuram",
+    "team": "France",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Luca Toni",
+    "team": "Italy",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Luis Cubilla",
+    "team": "Uruguay",
+    "goals": 2,
+    "tournaments": [
+      1962,
+      1970
+    ]
+  },
+  {
+    "name": "Luis Enrique",
+    "team": "Spain",
+    "goals": 2,
+    "tournaments": [
+      1994,
+      1998
+    ]
+  },
+  {
+    "name": "Luis Garc\u00eda Postigo",
+    "team": "Mexico",
+    "goals": 2,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Luis Monti",
+    "team": "Argentina",
+    "goals": 2,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Luka Modri\u0107",
+    "team": "Croatia",
+    "goals": 2,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "L\u00e1szl\u00f3 Fazekas",
+    "team": "Hungary",
+    "goals": 2,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Maniche",
+    "team": "Portugal",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Manuel Rosas",
+    "team": "Mexico",
+    "goals": 2,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Marc Degryse",
+    "team": "Belgium",
+    "goals": 2,
+    "tournaments": [
+      1990,
+      1994
+    ]
+  },
+  {
+    "name": "Marco Materazzi",
+    "team": "Italy",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Marco Tardelli",
+    "team": "Italy",
+    "goals": 2,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Marcos Rojo",
+    "team": "Argentina",
+    "goals": 2,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Mario G\u00f6tze",
+    "team": "Germany",
+    "goals": 2,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Marius L\u0103c\u0103tu\u0219",
+    "team": "Romania",
+    "goals": 2,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Marouane Fellaini",
+    "team": "Belgium",
+    "goals": 2,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Martin Peters",
+    "team": "England",
+    "goals": 2,
+    "tournaments": [
+      1966,
+      1970
+    ]
+  },
+  {
+    "name": "Maryan Wisnieski",
+    "team": "France",
+    "goals": 2,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Mats Hummels",
+    "team": "Germany",
+    "goals": 2,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Maxi Rodr\u00edguez",
+    "team": "Argentina",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Mehdi Taremi",
+    "team": "IR Iran",
+    "goals": 2,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Mesut \u00d6zil",
+    "team": "Germany",
+    "goals": 2,
+    "tournaments": [
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Michael Laudrup",
+    "team": "Denmark",
+    "goals": 2,
+    "tournaments": [
+      1986,
+      1998
+    ]
+  },
+  {
+    "name": "Michal B\u00edlek",
+    "team": "Czechia",
+    "goals": 2,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Michy Batshuayi",
+    "team": "Belgium",
+    "goals": 2,
+    "tournaments": [
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "Mih\u00e1ly Lantos",
+    "team": "Hungary",
+    "goals": 2,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Milan Dvo\u0159\u00e1k",
+    "team": "Czechia",
+    "goals": 2,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Moderato Wisintainer",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Mohamed Salah",
+    "team": "Egypt",
+    "goals": 2,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "M\u00e1rio Zagallo",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      1958,
+      1962
+    ]
+  },
+  {
+    "name": "M\u00fcller",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Nasko Sirakov",
+    "team": "Bulgaria",
+    "goals": 2,
+    "tournaments": [
+      1986,
+      1994
+    ]
+  },
+  {
+    "name": "Nelinho",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Niclas F\u00fcllkrug",
+    "team": "Germany",
+    "goals": 2,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Nikola \u017digi\u0107",
+    "team": "Serbia and Montenegro",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Nils Liedholm",
+    "team": "Sweden",
+    "goals": 2,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Obdulio Varela",
+    "team": "Uruguay",
+    "goals": 2,
+    "tournaments": [
+      1950,
+      1954
+    ]
+  },
+  {
+    "name": "Oleh Blokhin",
+    "team": "Soviet Union",
+    "goals": 2,
+    "tournaments": [
+      1982,
+      1986
+    ]
+  },
+  {
+    "name": "Oleksandr Zavarov",
+    "team": "Soviet Union",
+    "goals": 2,
+    "tournaments": [
+      1986,
+      1990
+    ]
+  },
+  {
+    "name": "Oliver Neuville",
+    "team": "Germany",
+    "goals": 2,
+    "tournaments": [
+      2002,
+      2006
+    ]
+  },
+  {
+    "name": "Omar Bravo",
+    "team": "Mexico",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Pablo Dorado",
+    "team": "Uruguay",
+    "goals": 2,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Pak Seung-zin",
+    "team": "Korea DPR",
+    "goals": 2,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Papa Bouba Diop",
+    "team": "Senegal",
+    "goals": 2,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Patrick Kluivert",
+    "team": "Netherlands",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Patrick M'Boma",
+    "team": "Cameroon",
+    "goals": 2,
+    "tournaments": [
+      1998,
+      2002
+    ]
+  },
+  {
+    "name": "Patrick Vieira",
+    "team": "France",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Paul Pogba",
+    "team": "France",
+    "goals": 2,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Pepe",
+    "team": "Portugal",
+    "goals": 2,
+    "tournaments": [
+      2018,
+      2022
+    ]
+  },
+  {
+    "name": "Philippe Albert",
+    "team": "Belgium",
+    "goals": 2,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Philippe Coutinho",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Phillip Cocu",
+    "team": "Netherlands",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "P\u00e1l Titkos",
+    "team": "Hungary",
+    "goals": 2,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "P\u00e9ter Palot\u00e1s",
+    "team": "Hungary",
+    "goals": 2,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Rafael Le\u00e3o",
+    "team": "Portugal",
+    "goals": 2,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Ram\u00f3n Calder\u00e9",
+    "team": "Spain",
+    "goals": 2,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Raoul Lambert",
+    "team": "Belgium",
+    "goals": 2,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Ricardo Pel\u00e1ez",
+    "team": "Mexico",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Riccardo Carapellese",
+    "team": "Italy",
+    "goals": 2,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Ritsu Doan",
+    "team": "Japan",
+    "goals": 2,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Robert Lewandowski",
+    "team": "Poland",
+    "goals": 2,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Roberto Bettega",
+    "team": "Italy",
+    "goals": 2,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Roberto Boninsegna",
+    "team": "Italy",
+    "goals": 2,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Roberto Caba\u00f1as",
+    "team": "Paraguay",
+    "goals": 2,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Robinho",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Roland Sandberg",
+    "team": "Sweden",
+    "goals": 2,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Romeo Benetti",
+    "team": "Italy",
+    "goals": 2,
+    "tournaments": [
+      1974,
+      1978
+    ]
+  },
+  {
+    "name": "Ron Flowers",
+    "team": "England",
+    "goals": 2,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Ronald de Boer",
+    "team": "Netherlands",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Ronaldinho",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Rub\u00e9n Marcos",
+    "team": "Chile",
+    "goals": 2,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Salah Assad",
+    "team": "Algeria",
+    "goals": 2,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Salaheddine Bassir",
+    "team": "Morocco",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Sami Khedira",
+    "team": "Germany",
+    "goals": 2,
+    "tournaments": [
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Santos Iriarte",
+    "team": "Uruguay",
+    "goals": 2,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Serginho Chulapa",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Sergio Ag\u00fcero",
+    "team": "Argentina",
+    "goals": 2,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Shaun Bartlett",
+    "team": "South Africa",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Shinji Okazaki",
+    "team": "Japan",
+    "goals": 2,
+    "tournaments": [
+      2010,
+      2014
+    ]
+  },
+  {
+    "name": "Silvestre Igoa",
+    "team": "Spain",
+    "goals": 2,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Sim\u00e3o Sabrosa",
+    "team": "Portugal",
+    "goals": 2,
+    "tournaments": [
+      2006,
+      2010
+    ]
+  },
+  {
+    "name": "Slobodan Komljenovi\u0107",
+    "team": "FR Yugoslavia",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Stanislav Karasi",
+    "team": "Yugoslavia",
+    "goals": 2,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Sulley Muntari",
+    "team": "Ghana",
+    "goals": 2,
+    "tournaments": [
+      2006,
+      2010
+    ]
+  },
+  {
+    "name": "Sune Andersson",
+    "team": "Sweden",
+    "goals": 2,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Takashi Inui",
+    "team": "Japan",
+    "goals": 2,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Theodore Whitmore",
+    "team": "Jamaica",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Thiago Silva",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      2014,
+      2018
+    ]
+  },
+  {
+    "name": "Tiago Mendes",
+    "team": "Portugal",
+    "goals": 2,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Tibor Nyilasi",
+    "team": "Hungary",
+    "goals": 2,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Tom Finney",
+    "team": "England",
+    "goals": 2,
+    "tournaments": [
+      1954,
+      1958
+    ]
+  },
+  {
+    "name": "Tom\u00e1\u0161 Rosick\u00fd",
+    "team": "Czechia",
+    "goals": 2,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Trevor Francis",
+    "team": "England",
+    "goals": 2,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Viktor Ponedelnik",
+    "team": "Soviet Union",
+    "goals": 2,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Vincent Aboubakar",
+    "team": "Cameroon",
+    "goals": 2,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Vincenzo Iaquinta",
+    "team": "Italy",
+    "goals": 2,
+    "tournaments": [
+      2006,
+      2010
+    ]
+  },
+  {
+    "name": "Viorel Moldovan",
+    "team": "Romania",
+    "goals": 2,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "V\u00e1clav Hovorka",
+    "team": "Czechia",
+    "goals": 2,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Wilfried Bony",
+    "team": "C\u00f4te d'Ivoire",
+    "goals": 2,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Wilfried Van Moer",
+    "team": "Belgium",
+    "goals": 2,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Wim Jonk",
+    "team": "Netherlands",
+    "goals": 2,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Wout Weghorst",
+    "team": "Netherlands",
+    "goals": 2,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "W\u0142odzimierz Smolarek",
+    "team": "Poland",
+    "goals": 2,
+    "tournaments": [
+      1982,
+      1986
+    ]
+  },
+  {
+    "name": "Xabi Alonso",
+    "team": "Spain",
+    "goals": 2,
+    "tournaments": [
+      2006,
+      2014
+    ]
+  },
+  {
+    "name": "Yannick Stopyra",
+    "team": "France",
+    "goals": 2,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Yoo Sang-chul",
+    "team": "Korea Republic",
+    "goals": 2,
+    "tournaments": [
+      1998,
+      2002
+    ]
+  },
+  {
+    "name": "Yordan Letchkov",
+    "team": "Bulgaria",
+    "goals": 2,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Zizinho",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "\u00c9der Aleixo de Assis",
+    "team": "Brazil",
+    "goals": 2,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "\u00dcmit Davala",
+    "team": "T\u00fcrkiye",
+    "goals": 2,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "\u0110or\u0111e Vujadinovi\u0107",
+    "team": "Yugoslavia",
+    "goals": 2,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "\u017deljko \u010cajkovski",
+    "team": "Yugoslavia",
+    "goals": 2,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Abdelkrim Merry",
+    "team": "Morocco",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Abdullah Al-Buloushi",
+    "team": "Kuwait",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Abel Balbo",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Achraf Dari",
+    "team": "Morocco",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Adalbert De\u0219u",
+    "team": "Romania",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Adelardo Rodr\u00edguez",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Admir Mehmedi",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Adnan Januzaj",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Adrian Ilie",
+    "team": "Romania",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Adrien Rabiot",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Ahmed Radhi",
+    "team": "Iraq",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Alain Couriol",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Alain Sutter",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Alan Mullery",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Albert Br\u00fclls",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Alberto Galateo",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Alberto Gilardino",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Alberto G\u00f3rriz",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Alberto Tarantini",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Aldo Donelli",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Aldo Serena",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Alejandro Scopelli",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Aleksandar Kolarov",
+    "team": "Serbia",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Aleksandar Tirnani\u0107",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Aleksandr Golovin",
+    "team": "Russia",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Aleksandr Ivanov",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Aleksandr Kerzhakov",
+    "team": "Russia",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Aleksandr Kokorin",
+    "team": "Russia",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Aleksandre Chivadze",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Aleksei Mamykin",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Alexandre Czerniatynski",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Alexandru Neagu",
+    "team": "Romania",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Alexis Mac Allister",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Alfred Bickel",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Alfred Pfaff",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Alfredo II",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Alfredo del \u00c1guila",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Alfre\u00f0 Finnbogason",
+    "team": "Iceland",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Ali Kaabi",
+    "team": "Tunisia",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Ali Thani Jumaa",
+    "team": "United Arab Emirates",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Allan Clarke",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Allan Nielsen",
+    "team": "Denmark",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Alphonso Davies",
+    "team": "Canada",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Amancio Amaro",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Amleto Frignani",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Anatoliy Banishevskiy",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Anders Svensson",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Andoni Goikoetxea",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Andrea Pirlo",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Andreas Christensen",
+    "team": "Denmark",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Andreas Herzog",
+    "team": "Austria",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Andreas M\u00f6ller",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Andreas Ogris",
+    "team": "Austria",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Andreas Samaris",
+    "team": "Greece",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Andrei Zygmantovich",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Andriy Bal",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Andriy Rusol",
+    "team": "Ukraine",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Andrzej Buncol",
+    "team": "Poland",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Andr\u00e1s T\u00f3th",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Andr\u00e9 Carrillo",
+    "team": "Peru",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Andr\u00e9s Guardado",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Andr\u00e9s Prieto",
+    "team": "Chile",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Angelo Domenghini",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Ante Rebi\u0107",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Antol\u00edn Alcaraz",
+    "team": "Paraguay",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Anton Schall",
+    "team": "Austria",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Antonio Alzamendi",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Antonio Cabrini",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Antonio Di Natale",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Antonio Rada",
+    "team": "Colombia",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Ant\u00f3nio Sim\u00f5es",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Ao Tanaka",
+    "team": "Japan",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Arne Brustad",
+    "team": "Norway",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Arne Friedrich",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Aron Winter",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Arturo V\u00e1zquez Ayala",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Asparuh Nikodimov",
+    "team": "Bulgaria",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Atilio L\u00f3pez",
+    "team": "Paraguay",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Aur\u00e9lien Tchouam\u00e9ni",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Avdija Vr\u0161ajevi\u0107",
+    "team": "Bosnia-Herzegovina",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Bakari Kon\u00e9",
+    "team": "C\u00f4te d'Ivoire",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Bamba Dieng",
+    "team": "Senegal",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Bart McGhee",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Benito Lorenzi",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Benjamin Pavard",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Bernard Lacombe",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Bernd H\u00f6lzenbein",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Bernd Schneider",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Bernhard Cullmann",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Bernhard Klodt",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Beto",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Bixente Lizarazu",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Blagoje Marjanovi\u0107",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Blaise Matuidi",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Bobby Collins",
+    "team": "Scotland",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Bonaventure Kalou",
+    "team": "C\u00f4te d'Ivoire",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Bongani Khumalo",
+    "team": "South Africa",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Boudewijn Zenden",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Boulaye Dia",
+    "team": "Senegal",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Branco",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Branko Oblak",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Branko Zebec",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Bror Mellberg",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Bruce Murray",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Bruno Conti",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Bruno Mora",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Bruno Petkovi\u0107",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Bruno Pezzey",
+    "team": "Austria",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Bryan Roy",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "B\u00fclent Korkmaz",
+    "team": "T\u00fcrkiye",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Cacau",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Carles Puyol",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Carlo Costly",
+    "team": "Honduras",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Carlo Galli",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Carlos Alberto Torres",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Carlos Babington",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Carlos Blanco",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Carlos Manuel",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Carlos Soler",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Carlos Valderrama",
+    "team": "Colombia",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Carlos Vela",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Carsten Jancker",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Casemiro",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Cayetano R\u00e9",
+    "team": "Paraguay",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Celso Ayala",
+    "team": "Paraguay",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Charles Antenen",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Charles Ar\u00e1nguiz",
+    "team": "Chile",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Choi Soon-ho",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Christian Eriksen",
+    "team": "Denmark",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Christian Lopez",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Christian Pulisic",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Christophe Dugarry",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Claudio L\u00f3pez",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Claudio Marchisio",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Claudio Su\u00e1rez",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Clint Mathis",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Clodoaldo",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Colin Clarke",
+    "team": "Northern Ireland",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Conny Torstensson",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Constantin Stanciu",
+    "team": "Romania",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Craig Burley",
+    "team": "Scotland",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Craig Goodwin",
+    "team": "Australia",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Craig Moore",
+    "team": "Australia",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Cristian Riveros",
+    "team": "Paraguay",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "C\u00e9sar Cueto",
+    "team": "Peru",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "C\u00e9sar L\u00f3pez Fretes",
+    "team": "Paraguay",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Daizen Maeda",
+    "team": "Japan",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Damien Duff",
+    "team": "Republic of Ireland",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Dan Eggen",
+    "team": "Norway",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Dani Olmo",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Daniel Borimirov",
+    "team": "Bulgaria",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Daniel Fonseca",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Daniel Ruiz",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Daniel Sturridge",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Daniel Veyt",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Daniele De Rossi",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Daniele Massaro",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Darijo Srna",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Darren Anderton",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Dar\u00edo Rodr\u00edguez",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "David Emb\u00e9",
+    "team": "Cameroon",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "David Narey",
+    "team": "Scotland",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "David Trezeguet",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Davy Klaassen",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Deco",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Dele Alli",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Dennis Wilshaw",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Denzel Dumfries",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Diamantino Miranda",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Dick Nanninga",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Diego God\u00edn",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Dimitris Salpingidis",
+    "team": "Greece",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Dinko Dermendzhiev",
+    "team": "Bulgaria",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Dirk Kuyt",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Divock Origi",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Djalma Santos",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Djamel Zidane",
+    "team": "Algeria",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Dmitri Radchenko",
+    "team": "Russia",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Dmitri Sychev",
+    "team": "Russia",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Dobromir Zhechev",
+    "team": "Bulgaria",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Domagoj Vida",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Dragan D\u017eaji\u0107",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Du\u0161an Vlahovi\u0107",
+    "team": "Serbia",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Dylan Bronn",
+    "team": "Tunisia",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Earnie Stewart",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Ebbe Sand",
+    "team": "Denmark",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Edgar Davids",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Edin D\u017eeko",
+    "team": "Bosnia-Herzegovina",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Edinho",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Edm\u00edlson",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Eduardo Laing",
+    "team": "Honduras",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Eduardo Vargas",
+    "team": "Chile",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Eloy Olaya",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Emerich Dembrovschi",
+    "team": "Romania",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Emil Forsberg",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Emil Kostadinov",
+    "team": "Bulgaria",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Emile Heskey",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Emmanuel Kund\u00e9",
+    "team": "Cameroon",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Emmanuel Olisadebe",
+    "team": "Poland",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Emre Bel\u00f6zo\u011flu",
+    "team": "T\u00fcrkiye",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Enrique Borja",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Enrique Guaita",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Enrique Saura",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Enrique Vera",
+    "team": "Paraguay",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Enzo Fern\u00e1ndez",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Enzo Francescoli",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Eric Maxim Choupo-Moting",
+    "team": "Cameroon",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Eric Wynalda",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Erich Obermayer",
+    "team": "Austria",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Ermes Muccinelli",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Ermindo Onega",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Ernesto Belis",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Ernesto Vidal",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Ern\u0151 Solymosi",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Erol Keskin",
+    "team": "T\u00fcrkiye",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Erwin S\u00e1nchez",
+    "team": "Bolivia",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Esteban Cambiasso",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Eugen Walaschek",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Eug\u00e8ne Ek\u00e9k\u00e9",
+    "team": "Cameroon",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Fabio Capello",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Fabio Grosso",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Fabio Quagliarella",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Fahad Al-Ghesheyan",
+    "team": "Saudi Arabia",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Faisal Al-Dakhil",
+    "team": "Kuwait",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Fakhreddine Ben Youssef",
+    "team": "Tunisia",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Famara Diedhiou",
+    "team": "Senegal",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Felipe Baloy",
+    "team": "Panama",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Ferjani Sassi",
+    "team": "Tunisia",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Fernandinho",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Fernando Riera",
+    "team": "Chile",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Filippo Inzaghi",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Finidi George",
+    "team": "Nigeria",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Florent Malouda",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Fl\u00e1vio Amado",
+    "team": "Angola",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Francesco Graziani",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Francesco Totti",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Francisco Arce",
+    "team": "Paraguay",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Francisco Fonseca",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Francisco Varallo",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Francisco Zuluaga",
+    "team": "Colombia",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Franck Rib\u00e9ry",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Franco Causio",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Frank Wallace",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Franky Vercauteren",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Franti\u0161ek Svoboda",
+    "team": "Czechia",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Freddie Ljungberg",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Freddy Rinc\u00f3n",
+    "team": "Colombia",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Frenkie de Jong",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Fria\u00e7a",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Friedrich Scherfke",
+    "team": "Poland",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Fulvio Nesti",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Gabriel Heinze",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Gabriel Mercado",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Gaizka Mendieta",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Gareth Bale",
+    "team": "Wales",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Gary Breen",
+    "team": "Republic of Ireland",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Gaston Taument",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Gavi",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Gelson Fernandes",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Genki Haraguchi",
+    "team": "Japan",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "George Robledo",
+    "team": "Chile",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Georges Bregy",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Georges Gr\u00fcn",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Georges Verriest",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Georgi Asparuhov",
+    "team": "Bulgaria",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Georgi Sokolov",
+    "team": "Bulgaria",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Georginio Wijnaldum",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Georgios Samaras",
+    "team": "Greece",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Gerardo Torrado",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Gerhard Rodax",
+    "team": "Austria",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Germ\u00e1n Aceros",
+    "team": "Colombia",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Gerry Hitchens",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Giampiero Boniperti",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Gianluca Zambrotta",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Gilberto",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Gino Pariani",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Giovani dos Santos",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Giovanni van Bronckhorst",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Giuseppe Giannini",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Glenn Str\u00f6mberg",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Goran Vlaovi\u0107",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Gordon Strachan",
+    "team": "Scotland",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Graeme Souness",
+    "team": "Scotland",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Grzegorz Krychowiak",
+    "team": "Poland",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Gr\u00e9goire M'Bida",
+    "team": "Cameroon",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Guillermo La Rosa",
+    "team": "Peru",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Gunnar Gren",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Gustavo Moscoso",
+    "team": "Chile",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Gustavo Pe\u00f1a",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Gylfi Sigur\u00f0sson",
+    "team": "Iceland",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "G\u00e9rard Hausser",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "G\u00e9rard Soler",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "G\u00e9rson",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "G\u00f6sta Dunker",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Ha Seok-ju",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Haji Wright",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Hakan \u015e\u00fck\u00fcr",
+    "team": "T\u00fcrkiye",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Hakim Ziyech",
+    "team": "Morocco",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Hamid Estili",
+    "team": "IR Iran",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Haminu Draman",
+    "team": "Ghana",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Hans Cieslarczyk",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Hansi M\u00fcller",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Haris Seferovi\u0107",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Harry Kewell",
+    "team": "Australia",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Harry Maguire",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Hassan Nader",
+    "team": "Morocco",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Hassan Rowshan",
+    "team": "IR Iran",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Heinz Schneiter",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Henri Coppens",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Henri Isemborghs",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Henry Mart\u00edn",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Hern\u00e1n Gaviria",
+    "team": "Colombia",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Hern\u00e1n Medford",
+    "team": "Costa Rica",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Hidetoshi Nakata",
+    "team": "Japan",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Hiroaki Morishima",
+    "team": "Japan",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Hirving Lozano",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Horacio Casar\u00edn",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Horst Hrubesch",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Horst Szymaniak",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Houmane Jarir",
+    "team": "Morocco",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Hugo Almeida",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Hugo S\u00e1nchez",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Huh Jung-moo",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Hwang Hee-chan",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Hwangbo Kwan",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "H\u00e5kan Mild",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "H\u00e5vard Flo",
+    "team": "Norway",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "H\u00e9ctor Chumpitaz",
+    "team": "Peru",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "H\u00e9ctor De Bourgoing",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "H\u00e9ctor Facundo",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "H\u00e9ctor Hern\u00e1ndez",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "H\u00e9ctor Ortiz",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "H\u00e9ctor Scarone",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "H\u00e9ctor Zelaya",
+    "team": "Honduras",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Iago Aspas",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Igor Dobrovolski",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Ildo Maneiro",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Ilija Petkovi\u0107",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Iraj Danaeifard",
+    "team": "IR Iran",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Isco",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Isidoro D\u00edaz",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Isidro L\u00e1ngara",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Ismaila Sarr",
+    "team": "Senegal",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Iuliu Bar\u00e1tky",
+    "team": "Romania",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Ivan Gudelj",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Ivan Ha\u0161ek",
+    "team": "Czechia",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Ivan Rakiti\u0107",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Ivan Yaremchuk",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Ivica Vasti\u0107",
+    "team": "Austria",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Iv\u00e1n Kaviedes",
+    "team": "Ecuador",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Jack Grealish",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Jackie Mudie",
+    "team": "Scotland",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Jaime Belmonte",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Jan Bednarek",
+    "team": "Poland",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Jan Koller",
+    "team": "Czechia",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Janusz Kupcewicz",
+    "team": "Poland",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Javier Ambrois",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Javier Fragoso",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Javier Saviola",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Javier Zanetti",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Jawhar Mnari",
+    "team": "Tunisia",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Jean Tigana",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Jean-Charles Castelletto",
+    "team": "Cameroon",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Jean-Marc Ferreri",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Jen\u0151 Vincze",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Jermain Defoe",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Jermaine Jones",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Jerzy Gorgo\u0144",
+    "team": "Poland",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Jesse Lingard",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Jes\u00fas Mar\u00eda Zamora",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Ji Yun-nam",
+    "team": "Korea DPR",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Jim Brown",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Jimmy Greaves",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Jimmy Mullen",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Jimmy Murray",
+    "team": "Scotland",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Ji\u0159\u00ed Feureisl",
+    "team": "Czechia",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Ji\u0159\u00ed Sobotka",
+    "team": "Czechia",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Joaqu\u00edn Peir\u00f3",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Joe Cole",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Joe Gaetjens",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Joe Maca",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Joel Campbell",
+    "team": "Costa Rica",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Johan Walem",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "John Aldridge",
+    "team": "Republic of Ireland",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "John Aloisi",
+    "team": "Australia",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "John Brooks",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "John Charles",
+    "team": "Wales",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "John Collins",
+    "team": "Scotland",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "John Eriksen",
+    "team": "Denmark",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "John Harold Lozano",
+    "team": "Colombia",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "John O'Brien",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "John Robertson",
+    "team": "Scotland",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Johnny Ekstr\u00f6m",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Johnny Haynes",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Jordan Henderson",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Jorge Luis Campos",
+    "team": "Paraguay",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Jorge Valdivia",
+    "team": "Chile",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Josef Bican",
+    "team": "Austria",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Josef Gauchel",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Josef Kadraba",
+    "team": "Czechia",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Josef Ko\u0161\u0165\u00e1lek",
+    "team": "Czechia",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Josef Masopust",
+    "team": "Czechia",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Josef Zeman",
+    "team": "Czechia",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Josep Maria Fust\u00e9",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Josip Drmi\u0107",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Josip Katalinski",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Josip Skoblar",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Cardozo",
+    "team": "Paraguay",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Luis Brown",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Luis Gonz\u00e1lez D\u00e1vila",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Luis Lamadrid",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Luis Sierra",
+    "team": "Chile",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Magri\u00f1\u00e1",
+    "team": "Cuba",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Mar\u00eda Gim\u00e9nez",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Reinaldo de Lima",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Sanfilippo",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Vel\u00e1squez",
+    "team": "Peru",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Jozef \u0160tibr\u00e1nyi",
+    "team": "Czechia",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Jo\u00e3o F\u00e9lix",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Jo\u00ebl Matip",
+    "team": "Cameroon",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Jo\u0161ko Gvardiol",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Juan",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Juan Antonio Se\u00f1or",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Juan Carlos Letelier",
+    "team": "Chile",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Juan Carlos Valer\u00f3n",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Juan Carre\u00f1o",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Juan Cayasso",
+    "team": "Costa Rica",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Juan Ignacio Basaguren",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Juan Manuel Asensi",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Juan Mata",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Juan Mujica",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Jude Bellingham",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Julian Green",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Julio C\u00e9sar Cort\u00e9s",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Julio P\u00e9rez",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Julius Aghahowa",
+    "team": "Nigeria",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Juninho Pernambucano",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "J\u00e1nos Farkas",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "J\u00f3zsef Bencsics",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "J\u00f3zsef Bozsik",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "J\u00f3zsef Varga",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "J\u00fanior",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "J\u00fcrgen Grabowski",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "J\u00fcrgen Sparwasser",
+    "team": "Germany DR",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Kakhi Asatiani",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Kak\u00e1",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Kalidou Koulibaly",
+    "team": "Senegal",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Kamil Kop\u00fanek",
+    "team": "Slovakia",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Karim Ansarifard",
+    "team": "IR Iran",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Karl Koller",
+    "team": "Austria",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Karl Sesta",
+    "team": "Austria",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Karl Zischek",
+    "team": "Austria",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Karl-Heinz Riedle",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Karl-Heinz Schnellinger",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Katlego Mphela",
+    "team": "South Africa",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Keiji Tamada",
+    "team": "Japan",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Kendall Waston",
+    "team": "Costa Rica",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Kevin Sheedy",
+    "team": "Republic of Ireland",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Kevin-Prince Boateng",
+    "team": "Ghana",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Keysher Fuller",
+    "team": "Costa Rica",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Khalid Bouta\u00efb",
+    "team": "Morocco",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Khalid Isma\u00efl",
+    "team": "United Arab Emirates",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Khalilou Fadiga",
+    "team": "Senegal",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Khoren Oganesian",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Kick Smit",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Kieran Trippier",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Kiko",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Kim Jong-boo",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Knut Kroon",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Koo Ja-cheol",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "K\u00e1roly Csap\u00f3",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "K\u00e1roly S\u00e1ndor",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Lajos D\u00e9t\u00e1ri",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Lakhdar Belloumi",
+    "team": "Algeria",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Laurent Blanc",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Lee Chun-soo",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Lee Eul-yong",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Lee Keun-ho",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Leen Vente",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Lei Clijsters",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Lennart Skoglund",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Leovegildo Lins da Gama J\u00fanior",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Leroy Fer",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Li Dong-woon",
+    "team": "Korea DPR",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Li\u00e9dson",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Lothar Emmerich",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Lovro Majer",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Lubo\u0161 Kub\u00edk",
+    "team": "Czechia",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Luc Nilis",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Lucas Paquet\u00e1",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Lucas Radebe",
+    "team": "South Africa",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Lucien Laurent",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Ludo Coeck",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Ludovico Avio",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Ludwig Augustinsson",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Luigi Di Biagio",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Luis Ch\u00e1vez",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Luis Fern\u00e1ndez",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Luis Flores",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Luis Ram\u00edrez Zapata",
+    "team": "El Salvador",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Luis Regueiro",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Luis Vargas Pe\u00f1a",
+    "team": "Paraguay",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Luis de Souza Ferreira",
+    "team": "Peru",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "L\u00e1z\u00e1r Szentes",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "L\u00e9ider Preciado",
+    "team": "Colombia",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "M'Baye Niang",
+    "team": "Senegal",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Magdi Abdelghani",
+    "team": "Egypt",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Maicon Sisenando",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Maksym Kalynychenko",
+    "team": "Ukraine",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Maneca",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Manuel Akanji",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Manuel Amoros",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Manuel Negrete Arias",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Manuel Sanch\u00eds",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Maouhoub Ghazouani",
+    "team": "Morocco",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Marc Berdoll",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Marc Overmars",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Marc Rieper",
+    "team": "Denmark",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Marcel Langiller",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Marcelino Bernal",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Marcell Jansen",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Marcin \u017bew\u0142akow",
+    "team": "Poland",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Marco Asensio",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Marco Bode",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Marco Reus",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Marco Ure\u00f1a",
+    "team": "Costa Rica",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Marcos Coll",
+    "team": "Colombia",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Marcus Allb\u00e4ck",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Marino Klinger",
+    "team": "Colombia",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Mario Balotelli",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Mario Evaristo",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Mario Stani\u0107",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Marius Tr\u00e9sor",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Mark Gonz\u00e1lez",
+    "team": "Chile",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Mark Wright",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Marko Livaja",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Marko Panteli\u0107",
+    "team": "Serbia",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Martin Hoffmann",
+    "team": "Germany DR",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Martin J\u00f8rgensen",
+    "team": "Denmark",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Mart\u00edn Demichelis",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Mart\u00edn Palermo",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Masashi Nakayama",
+    "team": "Japan",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Mathew Leckie",
+    "team": "Australia",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Mathias J\u00f8rgensen",
+    "team": "Denmark",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Mathieu Valbuena",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Matt Holland",
+    "team": "Republic of Ireland",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Matthew Upson",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Matthias Sindelar",
+    "team": "Austria",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Mauricio Pineda",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Mauricio Wright",
+    "team": "Costa Rica",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Maxi Pereira",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Maxime Bossis",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Mehdi Mahdavikia",
+    "team": "IR Iran",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Michael Bradley",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Michel De Wolf",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Miguel \u00c1ngel Ben\u00edtez",
+    "team": "Paraguay",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Miguel \u00c1ngel Brindisi",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Miguel \u00c1ngel Neira",
+    "team": "Chile",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Milan Badelj",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Milan Jovanovi\u0107",
+    "team": "Serbia",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Milan Luhov\u00fd",
+    "team": "Czechia",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Milan Rapai\u0107",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Milenko A\u010dimovi\u010d",
+    "team": "Slovenia",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Milo\u0161 Milutinovi\u0107",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Miralem Pjani\u0107",
+    "team": "Bosnia-Herzegovina",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Mislav Or\u0161i\u0107",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Mitchell Duke",
+    "team": "Australia",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Mo Johnston",
+    "team": "Scotland",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Mohamed Kader",
+    "team": "Togo",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Mohammed Chaouch",
+    "team": "Morocco",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Mohammed Muntari",
+    "team": "Qatar",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Mohammed Salisu",
+    "team": "Ghana",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Mois\u00e9s Caicedo",
+    "team": "Ecuador",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Mokhtar Dhouieb",
+    "team": "Tunisia",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Mordechai Spiegler",
+    "team": "Israel",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Moussa Sissoko",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Moussa Wagu\u00e9",
+    "team": "Senegal",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Mustafa Ertan",
+    "team": "T\u00fcrkiye",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Mustapha Hadji",
+    "team": "Morocco",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Mutiu Adepoju",
+    "team": "Nigeria",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "M\u00e1rcio Santos",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "M\u00e1rio Fernandes",
+    "team": "Russia",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "M\u00e1rton Esterh\u00e1zy",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Nacer Chadli",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Nacho",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Nahuel Molina",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Nani",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Niall Quinn",
+    "team": "Republic of Ireland",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Nicklas Bendtner",
+    "team": "Denmark",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Niclas Alexandersson",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Nicolae Kov\u00e1cs",
+    "team": "Romania",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Nikita Simonyan",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Niko Kova\u010d",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Norberto Men\u00e9ndez",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Norman Whiteside",
+    "team": "Northern Ireland",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Nuno Gomes",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "N\u00e9jib Ghommidh",
+    "team": "Tunisia",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "N\u00edlton Santos",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Ola Toivonen",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Oleh Protasov",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Oribe Peralta",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Oscar Heisserer",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Oscar Ruggeri",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Osman Bukari",
+    "team": "Ghana",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Osvaldo Ardiles",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Otto Siffling",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Ove Grahn",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Pablo Armero",
+    "team": "Colombia",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Pablo Bengoechea",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Paik Seung-ho",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Pak Doo-ik",
+    "team": "Korea DPR",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Paolo Barison",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Paolo Guerrero",
+    "team": "Peru",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Pape Malick Diop",
+    "team": "Senegal",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Park Chang-sun",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Park Chu-young",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Patrick Vervoort",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Paul Caligiuri",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Paul Mariner",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Paul Scholes",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Paulinho",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Pavlo Yakovenko",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Pawe\u0142 Krysza\u0142owicz",
+    "team": "Poland",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Pedro Monz\u00f3n",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Pedro Pasculli",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Pedro Rocha",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Pedro Troglio",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Pep Guardiola",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Petar Radakovi\u0107",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Peter Beardsley",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Peter Crouch",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Peter Lorimer",
+    "team": "Scotland",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Peter M\u00f8ller",
+    "team": "Denmark",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Peter Odemwingie",
+    "team": "Nigeria",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Peter Van der Heyden",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Phil Foden",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Philipp Lahm",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Philippe Senderos",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Pierre Njanka",
+    "team": "Cameroon",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Pierre van Hooijdonk",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Pietro Anastasi",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Pietro Ferraris",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Piotr Zieli\u0144ski",
+    "team": "Poland",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Pirri",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Plamen Getov",
+    "team": "Bulgaria",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Predrag Mijatovi\u0107",
+    "team": "FR Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "P\u00e1l Teleki",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Quinton Fortune",
+    "team": "South Africa",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Rabah Madjer",
+    "team": "Algeria",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Radamel Falcao",
+    "team": "Colombia",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Radhi Ja\u00efdi",
+    "team": "Tunisia",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Radivoje Ognjanovi\u0107",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Rafik Halliche",
+    "team": "Algeria",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Raheem Sterling",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Rainer Bonhof",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Rajko Miti\u0107",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Ramaz Shengelia",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Ramin Rezaeian",
+    "team": "IR Iran",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Ram\u00f3n D\u00edaz",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Ram\u00f3n Heredia",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Randal Kolo Muani",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Raouf Bouzaiene",
+    "team": "Tunisia",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Rapha\u00ebl Guerreiro",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Rapha\u00ebl Varane",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Rashidi Yekini",
+    "team": "Nigeria",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Raul Meireles",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Ray Houghton",
+    "team": "Republic of Ireland",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Ra\u00ed",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Ra\u00fal Serv\u00edn",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Reinhard Libuda",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Reinhold Hintermaier",
+    "team": "Austria",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Remo Freuler",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Renato Augusto",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Renato Zaccarelli",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Ren\u00e9 Bader",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Ren\u00e9 Girard",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Ren\u00e9 van de Kerkhof",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Ren\u00e9-Pierre Quentin",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Reza Ghoochannejad",
+    "team": "IR Iran",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Ricardo Horta",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Ricardo Pavoni",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Ricardo Quaresma",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Richard Herrmann",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Richard Morales",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Rildo da Costa Menezes",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Rio Ferdinand",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Robbie Earle",
+    "team": "Jamaica",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Robert Jarni",
+    "team": "Croatia",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Robert Koren",
+    "team": "Slovenia",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Roberto",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Roberto Ayala",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Roberto Carlos",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Roberto Challe",
+    "team": "Peru",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Roberto Firmino",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Roberto Gay\u00f3n",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Roberto L\u00f3pez Ufarte",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Rodrigo Millar",
+    "team": "Chile",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Roger Ljung",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Rolf W\u00fcthrich",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Romain Sa\u00efss",
+    "team": "Morocco",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Romaric",
+    "team": "C\u00f4te d'Ivoire",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Ronald Koeman",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Roozbeh Cheshmi",
+    "team": "IR Iran",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Roque Santa Cruz",
+    "team": "Paraguay",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Rub\u00e9n Ayala",
+    "team": "Argentina",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Rub\u00e9n Toribio D\u00edaz",
+    "team": "Peru",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Rudolf Noack",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Rui Costa",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Ruud Gullit",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Ruud Krol",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Ruud van Nistelrooy",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "R\u00f3ger Flores",
+    "team": "Costa Rica",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "R\u00f3nald Gonz\u00e1lez Brenes",
+    "team": "Costa Rica",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "R\u00fcdiger Abramczik",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Sadio Man\u00e9",
+    "team": "Senegal",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Saeed Al-Owairan",
+    "team": "Saudi Arabia",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Safet Su\u0161i\u0107",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Saleh Al-Shehri",
+    "team": "Saudi Arabia",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Salif Diao",
+    "team": "Senegal",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Salman Al-Faraj",
+    "team": "Saudi Arabia",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Salomon Kalou",
+    "team": "C\u00f4te d'Ivoire",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Sammy Baird",
+    "team": "Scotland",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Samson Siasia",
+    "team": "Nigeria",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Samuel Umtiti",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Sandro Mazzola",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Sa\u0161a Ili\u0107",
+    "team": "Serbia and Montenegro",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Sebastjan Cimiroti\u010d",
+    "team": "Slovenia",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Seo Jung-won",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Seol Ki-hyeon",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Serge Gnabry",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Sergei Aleinikov",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Sergei Pavlovich Baltacha",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Sergej Milinkovi\u0107-Savi\u0107",
+    "team": "Serbia",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Sergey Rodionov",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Sergio Ahumada",
+    "team": "Chile",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Serhiy Rebrov",
+    "team": "Ukraine",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Shane Smeltz",
+    "team": "New Zealand",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Shinji Kagawa",
+    "team": "Japan",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Shunsuke Nakamura",
+    "team": "Japan",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Sigfried Held",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Silvestre Varela",
+    "team": "Portugal",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Silviu Bindea",
+    "team": "Romania",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Sinha",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Sini\u0161a Mihajlovi\u0107",
+    "team": "FR Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Siphiwe Tshabalala",
+    "team": "South Africa",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Siyabonga Nomvethe",
+    "team": "South Africa",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Skander Souayah",
+    "team": "Tunisia",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Sofiane Feghouli",
+    "team": "Algeria",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Sohrab Bakhtiarizadeh",
+    "team": "IR Iran",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Sokratis Papastathopoulos",
+    "team": "Greece",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Sol Campbell",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Song Chong-gug",
+    "team": "Korea Republic",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Stan Mortensen",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Stanislaus Kobierski",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Stefan Majewski",
+    "team": "Poland",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Stefan de Vrij",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Stephen Appiah",
+    "team": "Ghana",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Steve Archibald",
+    "team": "Scotland",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Steve Sumner",
+    "team": "New Zealand",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Steve Wooddin",
+    "team": "New Zealand",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Steven Zuber",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Stjepan Bobek",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Strahinja Pavlovi\u0107",
+    "team": "Serbia",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Stuart McCall",
+    "team": "Scotland",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "St\u00e9phane Chapuisat",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "St\u00e9phane Demol",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Sunday Oliseh",
+    "team": "Nigeria",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "S\u00e1ndor Zombori",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "S\u00f8ren Lerby",
+    "team": "Denmark",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Takayuki Suzuki",
+    "team": "Japan",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Takuma Asano",
+    "team": "Japan",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Tarcisio Burgnich",
+    "team": "Italy",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Teboho Mokoena",
+    "team": "South Africa",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Tedj Bensaoula",
+    "team": "Algeria",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Terry Medwin",
+    "team": "Wales",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Te\u00f3filo Guti\u00e9rrez",
+    "team": "Colombia",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Theo Hern\u00e1ndez",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Theo de Jong",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Thomas Helveg",
+    "team": "Denmark",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Thomas Linke",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Thomas Meunier",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Thomas Sj\u00f6berg",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Tihomir Ognjanov",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Tijani Babangida",
+    "team": "Nigeria",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Timothy Weah",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Todor Kolev",
+    "team": "Bulgaria",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Tom Florie",
+    "team": "United States",
+    "goals": 1,
+    "tournaments": [
+      1930
+    ]
+  },
+  {
+    "name": "Tom Turesson",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Tom\u00e1s Balc\u00e1zar",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1954
+    ]
+  },
+  {
+    "name": "Tom\u00e1s Fern\u00e1ndez",
+    "team": "Cuba",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Toni Polster",
+    "team": "Austria",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Tore Andr\u00e9 Flo",
+    "team": "Norway",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Tore Keller",
+    "team": "Sweden",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Torsten Frings",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Tranquillo Barnetta",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Txiki Begiristain",
+    "team": "Spain",
+    "goals": 1,
+    "tournaments": [
+      1994
+    ]
+  },
+  {
+    "name": "Uli Hoene\u00df",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Uwe Bein",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Uwe Reinders",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Valdomiro Vaz Franco",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Valeri Karpin",
+    "team": "Russia",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Valter Birsa",
+    "team": "Slovenia",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Vasilis Torosidis",
+    "team": "Greece",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Vasyl Rats",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1986
+    ]
+  },
+  {
+    "name": "Vedad Ibi\u0161evi\u0107",
+    "team": "Bosnia-Herzegovina",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Victor Ikpeba",
+    "team": "Nigeria",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Victor Moses",
+    "team": "Nigeria",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Vilmos Kohut",
+    "team": "Hungary",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Vinicius J\u00fanior",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Vitaliy Khmelnytskyi",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "Vladimir Beschastnykh",
+    "team": "Russia",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Vladimir Petrovi\u0107",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Vladislav Bogi\u0107evi\u0107",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1974
+    ]
+  },
+  {
+    "name": "Vlastimil Kopeck\u00fd",
+    "team": "Czechia",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Vojislav Meli\u0107",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "V\u00e1clav Ma\u0161ek",
+    "team": "Czechia",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "V\u00edctor Esp\u00e1rrago",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1970
+    ]
+  },
+  {
+    "name": "V\u00edctor Rangel",
+    "team": "Mexico",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Wayne Rooney",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Wesley Sonck",
+    "team": "Belgium",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Wilbur Cush",
+    "team": "Northern Ireland",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Wilf Mannion",
+    "team": "England",
+    "goals": 1,
+    "tournaments": [
+      1950
+    ]
+  },
+  {
+    "name": "Wilhelm Hahnemann",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "Willy J\u00e4ggi",
+    "team": "Switzerland",
+    "goals": 1,
+    "tournaments": [
+      1934
+    ]
+  },
+  {
+    "name": "Willy van de Kerkhof",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1978
+    ]
+  },
+  {
+    "name": "Wilson Oruma",
+    "team": "Nigeria",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Wim Kieft",
+    "team": "Netherlands",
+    "goals": 1,
+    "tournaments": [
+      1990
+    ]
+  },
+  {
+    "name": "Winston Parks",
+    "team": "Costa Rica",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Winston Reid",
+    "team": "New Zealand",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Wolfgang Weber",
+    "team": "West Germany",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "W\u0142odzimierz Cio\u0142ek",
+    "team": "Poland",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Yacine Brahimi",
+    "team": "Algeria",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "Yahya Golmohammadi",
+    "team": "IR Iran",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Yakubu Aiyegbeni",
+    "team": "Nigeria",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Yang Seung-kook",
+    "team": "Korea DPR",
+    "goals": 1,
+    "tournaments": [
+      1966
+    ]
+  },
+  {
+    "name": "Yasser Al-Qahtani",
+    "team": "Saudi Arabia",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Yasuhito End\u014d",
+    "team": "Japan",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Yaya Tour\u00e9",
+    "team": "C\u00f4te d'Ivoire",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Yegor Titov",
+    "team": "Russia",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "Yeltsin Tejeda",
+    "team": "Costa Rica",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Youri Djorkaeff",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Yousuf Al-Thunayan",
+    "team": "Saudi Arabia",
+    "goals": 1,
+    "tournaments": [
+      1998
+    ]
+  },
+  {
+    "name": "Yuri Gavrilov",
+    "team": "Soviet Union",
+    "goals": 1,
+    "tournaments": [
+      1982
+    ]
+  },
+  {
+    "name": "Yuri Gazinskiy",
+    "team": "Russia",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Yussuf Poulsen",
+    "team": "Denmark",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Yuya Osako",
+    "team": "Japan",
+    "goals": 1,
+    "tournaments": [
+      2018
+    ]
+  },
+  {
+    "name": "Yvon Douis",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Zakaria Aboukhlal",
+    "team": "Morocco",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  },
+  {
+    "name": "Zdravko Rajkov",
+    "team": "Yugoslavia",
+    "goals": 1,
+    "tournaments": [
+      1958
+    ]
+  },
+  {
+    "name": "Ziad Jaziri",
+    "team": "Tunisia",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "Zito",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "Zlatan Ljubijanki\u0107",
+    "team": "Slovenia",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "Z\u00e9 Roberto",
+    "team": "Brazil",
+    "goals": 1,
+    "tournaments": [
+      2006
+    ]
+  },
+  {
+    "name": "\u00c1lvaro Pereira",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      2010
+    ]
+  },
+  {
+    "name": "\u00c1lvaro Recoba",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "\u00c1ngel Cabrera",
+    "team": "Uruguay",
+    "goals": 1,
+    "tournaments": [
+      1962
+    ]
+  },
+  {
+    "name": "\u00c9dison M\u00e9ndez",
+    "team": "Ecuador",
+    "goals": 1,
+    "tournaments": [
+      2002
+    ]
+  },
+  {
+    "name": "\u00c9mile Veinante",
+    "team": "France",
+    "goals": 1,
+    "tournaments": [
+      1938
+    ]
+  },
+  {
+    "name": "\u00d3scar Duarte",
+    "team": "Costa Rica",
+    "goals": 1,
+    "tournaments": [
+      2014
+    ]
+  },
+  {
+    "name": "\u0130lkay G\u00fcndo\u011fan",
+    "team": "Germany",
+    "goals": 1,
+    "tournaments": [
+      2022
+    ]
+  }
+]

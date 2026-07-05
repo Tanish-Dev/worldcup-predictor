@@ -5,6 +5,7 @@ import type {
   Groups,
   HistoricalMatch,
   Meta,
+  PlayerStat,
   Team,
   TournamentHistoryEntry,
 } from "./types";
@@ -36,9 +37,17 @@ export const getMatches = cache(async (): Promise<HistoricalMatch[]> => {
   return readJson<HistoricalMatch[]>("matches.json");
 });
 
+export const getPlayers = cache(async (): Promise<PlayerStat[]> => {
+  return readJson<PlayerStat[]>("players.json");
+});
+
 export async function getTeamByCode(code: string): Promise<Team | undefined> {
   const teams = await getTeams();
   return teams.find((t) => t.code.toLowerCase() === code.toLowerCase());
+}
+
+export function findTeamByName(teams: Team[], name: string): Team | undefined {
+  return teams.find((t) => t.name.toLowerCase() === name.toLowerCase());
 }
 
 export async function getTeamMatches(teamName: string): Promise<HistoricalMatch[]> {

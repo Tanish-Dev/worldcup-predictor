@@ -1,4 +1,3 @@
-import { ViewTransition } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { getTeams } from "@/lib/data";
@@ -71,7 +70,6 @@ function IconButton({
     <Link
       href={href}
       title={title}
-      transitionTypes={["nav-forward"]}
       className="glass-chip flex h-9 w-9 items-center justify-center rounded-xl text-white/75 transition hover:text-white"
     >
       {children}
@@ -359,18 +357,35 @@ export default async function HomePage() {
   }
 
   return (
-    <ViewTransition
-      enter="page-fade"
-      exit={{ "nav-forward": "page-slide", default: "page-fade" }}
-      default="none"
-    >
+    <>
       <div className="wc-dash min-h-screen">
-        <div className="mx-auto max-w-[1760px] px-4 py-4 xl:px-6">
-          <div className="grid gap-4 xl:grid-cols-[minmax(450px,340px)_minmax(0,1fr)_minmax(450px,380px)]">
+        <div className="mx-auto max-w-[1760px] px-4 pt-20 pb-4 xl:px-6 xl:pt-4">
+          <div className="grid gap-4 xl:grid-rows-[auto_1fr] xl:grid-cols-[minmax(450px,340px)_minmax(0,1fr)_minmax(450px,380px)]">
+            {/* ------------------------------ hero logo ------------------------------
+                 first in DOM so it's the first thing seen on mobile (stacked
+                 layout, above the dashboard card); pinned to the top of the
+                 center column, above the simulator, once the xl 3-column
+                 layout kicks in */}
+            <div
+              className="relative flex items-center justify-center overflow-hidden py-4 xl:col-start-2 xl:row-start-1 xl:-mb-7.5 xl:pt-16"
+              style={{ minHeight: "260px", maxHeight: "620px" }}
+            >
+              <Image
+                src="/logo-fifa.png"
+                alt="FIFA World Cup 26"
+                width={1536}
+                height={1024}
+                unoptimized
+                priority
+                className="wc-logo-mask h-auto w-[100%] max-w-none xl:w-[132%]"
+              />
+            </div>
+
             {/* ------------------------------ left column ------------------------------ */}
             <aside
-              className="flex flex-col gap-3"
+              className="flex flex-col gap-3 xl:col-start-1 xl:row-start-1 xl:row-span-2"
               style={{
+                WebkitBackdropFilter: "blur(32px)",
                 backdropFilter: "blur(32px)",
                 padding: "17px",
                 borderRadius: "24px",
@@ -479,7 +494,6 @@ export default async function HomePage() {
 
               <Link
                 href={`/teams/${favorite.code.toLowerCase()}`}
-                transitionTypes={["nav-forward"]}
                 className="block rounded-3xl bg-gradient-to-br from-[#5b8cff] via-[#3f6cf0] to-[#2a4fd0] p-4 transition hover:brightness-110"
               >
                 <div className="flex items-center justify-between gap-3">
@@ -519,7 +533,6 @@ export default async function HomePage() {
                 <h2 className="text-xl font-medium">Predictive Insights</h2>
                 <Link
                   href="/rankings"
-                  transitionTypes={["nav-forward"]}
                   className="text-sm text-white/60 hover:text-white"
                 >
                   View all
@@ -532,40 +545,20 @@ export default async function HomePage() {
               />
             </aside>
 
-            {/* ------------------------------ center column ------------------------------
+            {/* ------------------------------ center column: simulator ------------------------------
                  the pill nav that used to sit here now lives in the root
                  layout, so it persists across navigations */}
-            <section className="flex min-h-[540px] flex-col gap-4 pt-16">
-              {/* hero */}
-              <div
-                className="relative flex flex-1 items-center justify-center overflow-hidden py-4"
-                style={{
-                  minHeight: "300px",
-                  maxHeight: "620px",
-                  marginBottom: "-30px",
-                }}
-              >
-                <Image
-                  src="/logo-fifa.png"
-                  alt="FIFA World Cup 26"
-                  width={1536}
-                  height={1024}
-                  unoptimized
-                  priority
-                  className="wc-logo-mask h-auto w-[85%] max-w-none xl:w-[92%]"
-                />
-              </div>
-
+            <div className="xl:col-start-2 xl:row-start-2">
               <SimulatorCard
                 byGroup={simByGroup}
                 initialGroup={initialGroup}
                 match={upcomingInfo}
                 nextLabel={nextLabel}
               />
-            </section>
+            </div>
 
             {/* ------------------------------ right column ------------------------------ */}
-            <aside className="flex flex-col gap-4">
+            <aside className="flex flex-col gap-4 xl:col-start-3 xl:row-start-1 xl:row-span-2">
               {forecast && <ForecastCard match={forecast} />}
               <StandingsCard
                 byGroup={standingsByGroup}
@@ -575,6 +568,6 @@ export default async function HomePage() {
           </div>
         </div>
       </div>
-    </ViewTransition>
+    </>
   );
 }

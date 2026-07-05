@@ -67,7 +67,13 @@ function WinProbability({ match }: { match: ForecastMatch }) {
       <div className="mt-3 grid grid-cols-3 text-xs">
         <div>
           <p className="truncate text-white/70">{match.home.name}</p>
-          <p className="tabular mt-0.5 font-medium text-emerald-400">
+          <p
+            className={`tabular mt-0.5 font-medium ${
+              match.homePct >= match.awayPct
+                ? "text-emerald-400"
+                : "text-red-400"
+            }`}
+          >
             {Math.round(match.homePct)}%
           </p>
         </div>
@@ -79,14 +85,22 @@ function WinProbability({ match }: { match: ForecastMatch }) {
         </div>
         <div className="text-right">
           <p className="truncate text-white/70">{match.away.name}</p>
-          <p className="tabular mt-0.5 font-medium text-red-400">
+          <p
+            className={`tabular mt-0.5 font-medium ${
+              match.awayPct > match.homePct
+                ? "text-emerald-400"
+                : "text-red-400"
+            }`}
+          >
             {Math.round(match.awayPct)}%
           </p>
         </div>
       </div>
       <div className="mt-2 flex h-1.5 gap-1 overflow-hidden rounded-full">
         <span
-          className="rounded-full bg-emerald-500"
+          className={`rounded-full ${
+            match.homePct >= match.awayPct ? "bg-emerald-500" : "bg-red-500"
+          }`}
           style={{ width: `${match.homePct}%` }}
         />
         {match.drawPct > 0.5 && (
@@ -96,7 +110,9 @@ function WinProbability({ match }: { match: ForecastMatch }) {
           />
         )}
         <span
-          className="rounded-full bg-red-500"
+          className={`rounded-full ${
+            match.awayPct > match.homePct ? "bg-emerald-500" : "bg-red-500"
+          }`}
           style={{ width: `${match.awayPct}%` }}
         />
       </div>
@@ -268,6 +284,7 @@ export default function ForecastCard({ match }: { match: ForecastMatch }) {
     <div
       className="flex flex-col gap-3"
       style={{
+        WebkitBackdropFilter: "blur(32px)",
         backdropFilter: "blur(32px)",
         padding: "17px",
         borderRadius: "24px",
@@ -281,7 +298,6 @@ export default function ForecastCard({ match }: { match: ForecastMatch }) {
         <Link
           href="/bracket"
           title="Open the full bracket"
-          transitionTypes={["nav-forward"]}
           className="text-white/70 hover:text-white"
         >
           <ExpandIcon className="h-4 w-4" />
@@ -365,7 +381,6 @@ export default function ForecastCard({ match }: { match: ForecastMatch }) {
 
       <Link
         href="/bracket"
-        transitionTypes={["nav-forward"]}
         className="rounded-2xl bg-white py-3 text-center text-sm font-medium text-[#0a1526] transition hover:bg-white/90"
       >
         Watch Now

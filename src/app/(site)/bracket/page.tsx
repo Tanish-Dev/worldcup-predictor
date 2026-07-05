@@ -49,7 +49,7 @@ export default async function BracketPage() {
   const thirdPlace = live.matches.find((m) => m.phase === "Third place");
 
   return (
-    <div className="mx-auto max-w-6xl px-6 py-16">
+    <div className="mx-auto max-w-6xl px-4 sm:px-6 py-10 sm:py-16">
       <div className="flex flex-wrap items-baseline justify-between gap-3">
         <h1 className="text-3xl font-medium tracking-tight">Live bracket</h1>
         <p className="text-sm text-ink-muted">

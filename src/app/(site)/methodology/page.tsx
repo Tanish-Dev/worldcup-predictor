@@ -8,7 +8,7 @@ export default async function MethodologyPage() {
   const meta = await getMeta();
 
   return (
-    <div className="mx-auto max-w-3xl px-6 py-16">
+    <div className="mx-auto max-w-3xl px-4 sm:px-6 py-10 sm:py-16">
       <h1 className="text-3xl font-medium tracking-tight">How this works</h1>
 
       <div className="glass mt-8 space-y-6 rounded-3xl p-6 text-ink-secondary sm:p-8">

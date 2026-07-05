@@ -58,6 +58,10 @@ function parseMatch(raw: any): LiveMatch {
     matchTime: raw.MatchTime ?? null,
     homePlaceholder: raw.PlaceHolderA ?? null,
     awayPlaceholder: raw.PlaceHolderB ?? null,
+    idStage: raw.IdStage,
+    idMatch: raw.IdMatch,
+    homeTeamId: raw.Home?.IdTeam ?? null,
+    awayTeamId: raw.Away?.IdTeam ?? null,
   };
 }
 /* eslint-enable @typescript-eslint/no-explicit-any */

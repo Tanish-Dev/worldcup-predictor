@@ -22,7 +22,7 @@ export default async function RankingsPage() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-6 py-16">
+    <div className="mx-auto max-w-6xl px-4 sm:px-6 py-10 sm:py-16">
       <h1 className="text-3xl font-medium tracking-tight">Team rankings</h1>
       <p className="mt-3 max-w-2xl text-ink-secondary">
         All 48 teams with their live tournament status. &ldquo;Title odds
