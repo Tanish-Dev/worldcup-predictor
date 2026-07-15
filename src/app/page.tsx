@@ -29,6 +29,11 @@ import {
   TargetIcon,
 } from "@/components/dashboard/icons";
 
+// Live match scores must never be served from a stale static build — always
+// re-render per request so opening the app after a while shows current
+// scores immediately instead of whatever was last cached.
+export const dynamic = "force-dynamic";
+
 const MILESTONES: Record<
   MatchPhase,
   { key: "quarterfinal" | "semifinal" | "final" | "champion"; label: string }

@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
 import { RefreshIcon } from "./icons";
 
@@ -17,6 +17,7 @@ function relativeTime(fromIso: string, now: number): string {
 export default function LastUpdated({ fetchedAt }: { fetchedAt: string }) {
   const [now, setNow] = useState(() => Date.now());
   const router = useRouter();
+  const [isPending, startTransition] = useTransition();
 
   useEffect(() => {
     const id = setInterval(() => setNow(Date.now()), 1000);
@@ -26,12 +27,14 @@ export default function LastUpdated({ fetchedAt }: { fetchedAt: string }) {
   return (
     <button
       type="button"
-      onClick={() => router.refresh()}
+      onClick={() => startTransition(() => router.refresh())}
+      disabled={isPending}
       title="Refresh live data"
-      className="glass-chip inline-flex items-center gap-1.5 self-start rounded-full px-2.5 py-1 text-xs text-white/60 transition hover:text-white"
+      aria-busy={isPending}
+      className="glass-chip inline-flex items-center gap-1.5 self-start rounded-full px-2.5 py-1 text-xs text-white/60 transition hover:text-white disabled:cursor-wait disabled:opacity-80"
     >
-      <RefreshIcon className="h-3 w-3" />
-      Updated {relativeTime(fetchedAt, now)}
+      <RefreshIcon className={`h-3 w-3 ${isPending ? "animate-spin" : ""}`} />
+      {isPending ? "Updating…" : `Updated ${relativeTime(fetchedAt, now)}`}
     </button>
   );
 }
